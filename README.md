@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- Scalable Diffusion Models with State Space Backbone [[arxiv]](https://arxiv.org/abs/2402.05608) [[code]](https://github.com/feizc/DiS)
 - Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [[arxiv]](https://arxiv.org/pdf/2402.05892.pdf)
 - Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [[arxiv]](https://arxiv.org/abs/2401.09417) [[code]](https://github.com/kyegomez/VisionMamba)
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
