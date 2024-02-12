@@ -8,6 +8,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- FD-Vision Mamba for Endoscopic Exposure Correction [[arxiv]](https://arxiv.org/pdf/2402.06378.pdf) [[code]](https://github.com/zzr-idam/FDVM-Net)
 - MambaMorph: a Mamba-based Backbone with Contrastive Feature Learning for Deformable MR-CT Registration [[arxiv]](https://arxiv.org/abs/2401.13934) [[code]](https://github.com/Guo-Stone/MambaMorph?tab=readme-ov-file)
 - Vivim: a Video Vision Mamba for Medical Video Object Segmentation [[arxiv]](https://arxiv.org/abs/2401.14168) [[code]](https://github.com/scott-yjyang/Vivim)
 - U-Mamba: Enhancing Long-range Dependency for Biomedical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2401.04722.pdf)  [[code]](https://github.com/JiarunLiu/Swin-UMamba?tab=readme-ov-file) 
