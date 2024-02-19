@@ -2,12 +2,14 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- PointMamba: A Simple State Space Model for Point Cloud Analysis [[arxiv]](https://arxiv.org/pdf/2402.10739.pdf) [[code]](https://github.com/LMD0311/PointMamba)
 - Scalable Diffusion Models with State Space Backbone [[arxiv]](https://arxiv.org/abs/2402.05608) [[code]](https://github.com/feizc/DiS)
 - Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [[arxiv]](https://arxiv.org/pdf/2402.05892.pdf)
 - Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model [[arxiv]](https://arxiv.org/abs/2401.09417) [[code]](https://github.com/kyegomez/VisionMamba)
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2402.10887.pdf) [[code]](https://github.com/ziyangwang007/Mamba-UNet)
 - P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation [[arxiv]](https://arxiv.org/pdf/2402.08506.pdf)
 - Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2402.07245.pdf) [[code]](https://github.com/ziyangwang007/Mamba-UNet)
 - FD-Vision Mamba for Endoscopic Exposure Correction [[arxiv]](https://arxiv.org/pdf/2402.06378.pdf) [[code]](https://github.com/zzr-idam/FDVM-Net)
