@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- Pan-Mamba: Effective pan-sharpening with State Space Model [[arxiv]](https://arxiv.org/pdf/2402.12192.pdf) [[code]](https://github.com/alexhe101/Pan-Mamba)
 - PointMamba: A Simple State Space Model for Point Cloud Analysis [[arxiv]](https://arxiv.org/pdf/2402.10739.pdf) [[code]](https://github.com/LMD0311/PointMamba)
 - Scalable Diffusion Models with State Space Backbone [[arxiv]](https://arxiv.org/abs/2402.05608) [[code]](https://github.com/feizc/DiS)
 - Mamba-ND: Selective State Space Modeling for Multi-Dimensional Data [[arxiv]](https://arxiv.org/pdf/2402.05892.pdf)
