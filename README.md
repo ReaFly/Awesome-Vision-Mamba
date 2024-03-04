@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- Point Could Mamba: Point Cloud Learning via State Space Model [[arxiv]](https://arxiv.org/pdf/2403.00762.pdf) [[code]](https://github.com/zhang-tao-whu/PCM)
 - Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [[arxiv]](https://arxiv.org/pdf/2402.15761.pdf) [[code]](https://github.com/ChiShengChen/ResVMamba)
 - MambaIR: A Simple Baseline for Image Restoration with State-Space Model [[arxiv]](https://arxiv.org/abs/2402.15648) [[code]](https://github.com/csguoh/MambaIR)
 - Pan-Mamba: Effective pan-sharpening with State Space Model [[arxiv]](https://arxiv.org/pdf/2402.12192.pdf) [[code]](https://github.com/alexhe101/Pan-Mamba)
