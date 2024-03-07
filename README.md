@@ -14,6 +14,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- MedMamba: Vision Mamba for Medical Image Classification [[arxiv]](https://arxiv.org/pdf/2403.03849.pdf) [[code]](https://github.com/YubiaoYue/MedMamba)
 - MambaMIR: An Arbitrary-Masked Mamba for Joint Medical Image Reconstruction and Uncertainty Estimation [[arxiv]](https://arxiv.org/pdf/2402.18451.pdf) [[code]](https://github.com/ayanglab/MambaMIR)
 - Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2402.10887.pdf) [[code]](https://github.com/ziyangwang007/Mamba-UNet)
 - P-Mamba: Marrying Perona Malik Diffusion with Mamba for Efficient Pediatric Echocardiographic Left Ventricular Segmentation [[arxiv]](https://arxiv.org/pdf/2402.08506.pdf)
