@@ -2,6 +2,8 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy [[arxiv]](https://arxiv.org/pdf/2403.06467.pdf) [[code]](https://github.com/IRMVLab/Point-Mamba)
+- VideoMamba: State Space Model for Efficient Video Understanding [[arxiv]](https://arxiv.org/pdf/2403.06977.pdf) [[code]](https://github.com/OpenGVLab/VideoMamba)
 - MiM-ISTD: Mamba-in-Mamba for Efficient Infrared Small Target Detection [[arxiv]](https://arxiv.org/pdf/2403.02148.pdf) [[code]](https://github.com/txchen-USTC/MiM-ISTD)
 - Point Could Mamba: Point Cloud Learning via State Space Model [[arxiv]](https://arxiv.org/pdf/2403.00762.pdf) [[code]](https://github.com/zhang-tao-whu/PCM)
 - Res-VMamba: Fine-Grained Food Category Visual Classification Using Selective State Space Models with Deep Residual Learning [[arxiv]](https://arxiv.org/pdf/2402.15761.pdf) [[code]](https://github.com/ChiShengChen/ResVMamba)
@@ -14,6 +16,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology [[arxiv]](https://arxiv.org/pdf/2403.06800.pdf) [[code]](https://github.com/isyangshu/MambaMIL)
 - LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.05246.pdf) [[code]](https://github.com/MrBlankness/LightM-UNet)
 - MamMIL: Multiple Instance Learning for Whole Slide Images with State Space Models [[arxiv]](https://arxiv.org/pdf/2403.05160.pdf) 
 - MedMamba: Vision Mamba for Medical Image Classification [[arxiv]](https://arxiv.org/pdf/2403.03849.pdf) [[code]](https://github.com/YubiaoYue/MedMamba)
