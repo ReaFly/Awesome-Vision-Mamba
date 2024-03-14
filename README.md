@@ -17,6 +17,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- MD-Dose: A diffusion model based on the Mamba for radiation dose prediction [[arxiv]](https://arxiv.org/pdf/2403.08479.pdf) [[code]](https://github.com/LinjieFu-U/mamba_dose)
 - Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention [[arxiv]](https://arxiv.org/pdf/2403.07332.pdf) [[code]](https://github.com/wjh892521292/LMa-UNet)
 - MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology [[arxiv]](https://arxiv.org/pdf/2403.06800.pdf) [[code]](https://github.com/isyangshu/MambaMIL)
 - LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.05246.pdf) [[code]](https://github.com/MrBlankness/LightM-UNet)
