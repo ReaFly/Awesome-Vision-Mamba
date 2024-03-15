@@ -2,6 +2,9 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- LocalMamba: Visual State Space Model with Windowed Selective Scan [[arxiv]](https://arxiv.org/pdf/2403.09338.pdf) [[code]](https://github.com/hunto/LocalMamba)
+- MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models [[arxiv]](https://arxiv.org/pdf/2403.09471.pdf) 
+- Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding [[arxiv]](https://arxiv.org/pdf/2403.09626.pdf) [[code]](https://github.com/OpenGVLab/video-mamba-suite)
 - Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM [[arxiv]](https://arxiv.org/pdf/2403.07487.pdf) [[code]](https://steve-zeyu-zhang.github.io/MotionMamba/)
 - Point Mamba: A Novel Point Cloud Backbone Based on State Space Model with Octree-Based Ordering Strategy [[arxiv]](https://arxiv.org/pdf/2403.06467.pdf) [[code]](https://github.com/IRMVLab/Point-Mamba)
 - VideoMamba: State Space Model for Efficient Video Understanding [[arxiv]](https://arxiv.org/pdf/2403.06977.pdf) [[code]](https://github.com/OpenGVLab/VideoMamba)
@@ -17,6 +20,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.09157.pdf) [[code]](https://github.com/nobodyplayer1/VM-UNetV2)
 - MD-Dose: A diffusion model based on the Mamba for radiation dose prediction [[arxiv]](https://arxiv.org/pdf/2403.08479.pdf) [[code]](https://github.com/LinjieFu-U/mamba_dose)
 - Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention [[arxiv]](https://arxiv.org/pdf/2403.07332.pdf) [[code]](https://github.com/wjh892521292/LMa-UNet)
 - MambaMIL: Enhancing Long Sequence Modeling with Sequence Reordering in Computational Pathology [[arxiv]](https://arxiv.org/pdf/2403.06800.pdf) [[code]](https://github.com/isyangshu/MambaMIL)
