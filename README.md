@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- VmambaIR: Visual State Space Model for Image Restoration [[arxiv]](https://arxiv.org/pdf/2403.11423.pdf) [[code]](https://github.com/AlphacatPlus/VmambaIR)
 - LocalMamba: Visual State Space Model with Windowed Selective Scan [[arxiv]](https://arxiv.org/pdf/2403.09338.pdf) [[code]](https://github.com/hunto/LocalMamba)
 - MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models [[arxiv]](https://arxiv.org/pdf/2403.09471.pdf) 
 - Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding [[arxiv]](https://arxiv.org/pdf/2403.09626.pdf) [[code]](https://github.com/OpenGVLab/video-mamba-suite)
