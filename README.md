@@ -2,6 +2,8 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- VL-Mamba: Exploring State Space Models for Multimodal Learning [[arxiv]](https://arxiv.org/pdf/2403.13600.pdf)
+- ZigMa: Zigzag Mamba Diffusion Model [[arxiv]](https://arxiv.org/pdf/2403.13802.pdf) [[code]](https://taohu.me/zigma/)
 - VmambaIR: Visual State Space Model for Image Restoration [[arxiv]](https://arxiv.org/pdf/2403.11423.pdf) [[code]](https://github.com/AlphacatPlus/VmambaIR)
 - LocalMamba: Visual State Space Model with Windowed Selective Scan [[arxiv]](https://arxiv.org/pdf/2403.09338.pdf) [[code]](https://github.com/hunto/LocalMamba)
 - MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models [[arxiv]](https://arxiv.org/pdf/2403.09471.pdf) 
@@ -21,6 +23,8 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.13642.pdf) [[code]](https://github.com/wurenkai/H-vmunet)
+- ProMamba: Prompt-Mamba for polyp segmentation [[arxiv]](https://arxiv.org/pdf/2403.13660.pdf)
 - VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.09157.pdf) [[code]](https://github.com/nobodyplayer1/VM-UNetV2)
 - MD-Dose: A diffusion model based on the Mamba for radiation dose prediction [[arxiv]](https://arxiv.org/pdf/2403.08479.pdf) [[code]](https://github.com/LinjieFu-U/mamba_dose)
 - Large Window-based Mamba UNet for Medical Image Segmentation: Beyond Convolution and Self-attention [[arxiv]](https://arxiv.org/pdf/2403.07332.pdf) [[code]](https://github.com/wjh892521292/LMa-UNet)
