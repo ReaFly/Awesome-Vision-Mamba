@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [[arxiv]](https://arxiv.org/pdf/2403.14520.pdf) [[code]](https://sites.google.com/view/cobravlm)
 - VL-Mamba: Exploring State Space Models for Multimodal Learning [[arxiv]](https://arxiv.org/pdf/2403.13600.pdf)
 - ZigMa: Zigzag Mamba Diffusion Model [[arxiv]](https://arxiv.org/pdf/2403.13802.pdf) [[code]](https://taohu.me/zigma/)
 - VmambaIR: Visual State Space Model for Image Restoration [[arxiv]](https://arxiv.org/pdf/2403.11423.pdf) [[code]](https://github.com/AlphacatPlus/VmambaIR)
