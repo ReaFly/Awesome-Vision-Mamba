@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- SiMBA: Simplified Mamba-based Architecture for Vision and Multivariate Time series [[arxiv]](https://arxiv.org/pdf/2403.15360.pdf) [[code]](https://github.com/badripatro/Simba)
 - Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [[arxiv]](https://arxiv.org/pdf/2403.14520.pdf) [[code]](https://sites.google.com/view/cobravlm)
 - VL-Mamba: Exploring State Space Models for Multimodal Learning [[arxiv]](https://arxiv.org/pdf/2403.13600.pdf)
 - ZigMa: Zigzag Mamba Diffusion Model [[arxiv]](https://arxiv.org/pdf/2403.13802.pdf) [[code]](https://taohu.me/zigma/)
