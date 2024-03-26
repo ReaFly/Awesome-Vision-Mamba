@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting [[arxiv]](https://arxiv.org/pdf/2403.16536.pdf) [[code]](https://github.com/yyyujintang/VMRNN-PyTorch)
 - SiMBA: Simplified Mamba-based Architecture for Vision and Multivariate Time series [[arxiv]](https://arxiv.org/pdf/2403.15360.pdf) [[code]](https://github.com/badripatro/Simba)
 - Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [[arxiv]](https://arxiv.org/pdf/2403.14520.pdf) [[code]](https://sites.google.com/view/cobravlm)
 - VL-Mamba: Exploring State Space Models for Multimodal Learning [[arxiv]](https://arxiv.org/pdf/2403.13600.pdf)
