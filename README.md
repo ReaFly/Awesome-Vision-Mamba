@@ -2,6 +2,9 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion [[arxiv]](https://arxiv.org/pdf/2403.17432.pdf)
+- PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition [[arxiv]](https://arxiv.org/pdf/2403.17695.pdf) [[code]](https://github.com/ChenhongyiYang/PlainMamba)
+- ReMamber: Referring Image Segmentation with Mamba Twister [[arxiv]](https://arxiv.org/pdf/2403.17839.pdf)
 - VMRNN: Integrating Vision Mamba and LSTM for Efficient and Accurate Spatiotemporal Forecasting [[arxiv]](https://arxiv.org/pdf/2403.16536.pdf) [[code]](https://github.com/yyyujintang/VMRNN-PyTorch)
 - SiMBA: Simplified Mamba-based Architecture for Vision and Multivariate Time series [[arxiv]](https://arxiv.org/pdf/2403.15360.pdf) [[code]](https://github.com/badripatro/Simba)
 - Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference [[arxiv]](https://arxiv.org/pdf/2403.14520.pdf) [[code]](https://sites.google.com/view/cobravlm)
@@ -26,6 +29,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.17701.pdf)
 - H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.13642.pdf) [[code]](https://github.com/wurenkai/H-vmunet)
 - ProMamba: Prompt-Mamba for polyp segmentation [[arxiv]](https://arxiv.org/pdf/2403.13660.pdf)
 - VM-UNET-V2 Rethinking Vision Mamba UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.09157.pdf) [[code]](https://github.com/nobodyplayer1/VM-UNetV2)
