@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [[arxiv]](https://arxiv.org/pdf/2403.18795.pdf)
 - Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion [[arxiv]](https://arxiv.org/pdf/2403.17432.pdf)
 - PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition [[arxiv]](https://arxiv.org/pdf/2403.17695.pdf) [[code]](https://github.com/ChenhongyiYang/PlainMamba)
 - ReMamber: Referring Image Segmentation with Mamba Twister [[arxiv]](https://arxiv.org/pdf/2403.17839.pdf)
