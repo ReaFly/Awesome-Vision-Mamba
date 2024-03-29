@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- RSMamba: Remote Sensing Image Classification with State Space Model [[arxiv]](https://arxiv.org/pdf/2403.19654.pdf) [[code]](https://github.com/KyanChen/RSMamba)
 - Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [[arxiv]](https://arxiv.org/pdf/2403.18795.pdf)
 - Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion [[arxiv]](https://arxiv.org/pdf/2403.17432.pdf)
 - PlainMamba: Improving Non-Hierarchical Mamba in Visual Recognition [[arxiv]](https://arxiv.org/pdf/2403.17695.pdf) [[code]](https://github.com/ChenhongyiYang/PlainMamba)
