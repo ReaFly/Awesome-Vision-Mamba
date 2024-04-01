@@ -2,6 +2,9 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [[arxiv]](https://arxiv.org/pdf/2403.19888.pdf) [[code]](https://mambamixer.github.io/)
+- Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring [[arxiv]](https://arxiv.org/pdf/2403.20106.pdf) 
+- HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [[arxiv]](https://arxiv.org/pdf/2403.20183.pdf) 
 - RSMamba: Remote Sensing Image Classification with State Space Model [[arxiv]](https://arxiv.org/pdf/2403.19654.pdf) [[code]](https://github.com/KyanChen/RSMamba)
 - Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction [[arxiv]](https://arxiv.org/pdf/2403.18795.pdf)
 - Integrating Mamba Sequence Model and Hierarchical Upsampling Network for Accurate Semantic Segmentation of Multiple Sclerosis Legion [[arxiv]](https://arxiv.org/pdf/2403.17432.pdf)
