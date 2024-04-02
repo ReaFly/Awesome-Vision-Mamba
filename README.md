@@ -2,6 +2,8 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification [[arxiv]](https://arxiv.org/pdf/2404.00272.pdf)
+- SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[arxiv]](https://arxiv.org/pdf/2404.01174.pdf)
 - MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [[arxiv]](https://arxiv.org/pdf/2403.19888.pdf) [[code]](https://mambamixer.github.io/)
 - Aggregating Local and Global Features via Selective State Spaces Model for Efficient Image Deblurring [[arxiv]](https://arxiv.org/pdf/2403.20106.pdf) 
 - HARMamba: Efficient Wearable Sensor Human Activity Recognition Based on Bidirectional Selective SSM [[arxiv]](https://arxiv.org/pdf/2403.20183.pdf) 
@@ -34,6 +36,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation [[arxiv]](https://arxiv.org/pdf/2404.01065.pdf) [[code]](https://github.com/isbrycee/T-Mamba)
 - Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.17701.pdf)
 - H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.13642.pdf) [[code]](https://github.com/wurenkai/H-vmunet)
 - ProMamba: Prompt-Mamba for polyp segmentation [[arxiv]](https://arxiv.org/pdf/2403.13660.pdf)
