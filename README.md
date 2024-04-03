@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [[arxiv]](https://arxiv.org/pdf/2404.01705.pdf) [[code]](https://github.com/zhuqinfeng1999/Samba)
 - HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification [[arxiv]](https://arxiv.org/pdf/2404.00272.pdf)
 - SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[arxiv]](https://arxiv.org/pdf/2404.01174.pdf)
 - MambaMixer: Efficient Selective State Space Models with Dual Token and Channel Selection [[arxiv]](https://arxiv.org/pdf/2403.19888.pdf) [[code]](https://mambamixer.github.io/)
