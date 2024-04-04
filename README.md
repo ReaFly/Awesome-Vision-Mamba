@@ -2,6 +2,8 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2404.02457.pdf) [[code]](https://github.com/sstary/SSRS)
+- RS-Mamba for Large Remote Sensing Image Dense Prediction [[arxiv]](https://arxiv.org/pdf/2404.02668.pdf) [[code]](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)
 - Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [[arxiv]](https://arxiv.org/pdf/2404.01705.pdf) [[code]](https://github.com/zhuqinfeng1999/Samba)
 - HSIMamba: Hyperpsectral Imaging Efficient Feature Learning with Bidirectional State Space for Classification [[arxiv]](https://arxiv.org/pdf/2404.00272.pdf)
 - SpikeMba: Multi-Modal Spiking Saliency Mamba for Temporal Video Grounding [[arxiv]](https://arxiv.org/pdf/2404.01174.pdf)
