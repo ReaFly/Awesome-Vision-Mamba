@@ -2,6 +2,8 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [[arxiv]](https://arxiv.org/pdf/2404.03425.pdf) [[code]](https://github.com/ChenHongruixuan/MambaCD)
+- InsectMamba: Insect Pest Classification with State Space Model [[arxiv]](https://arxiv.org/pdf/2404.03611.pdf)
 - RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2404.02457.pdf) [[code]](https://github.com/sstary/SSRS)
 - RS-Mamba for Large Remote Sensing Image Dense Prediction [[arxiv]](https://arxiv.org/pdf/2404.02668.pdf) [[code]](https://github.com/walking-shadow/Official_Remote_Sensing_Mamba)
 - Samba: Semantic Segmentation of Remotely Sensed Images with State Space Model [[arxiv]](https://arxiv.org/pdf/2404.01705.pdf) [[code]](https://github.com/zhuqinfeng1999/Samba)
