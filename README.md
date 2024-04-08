@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2404.04256.pdf) [[code]](https://github.com/zifuwan/Sigma)
 - ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [[arxiv]](https://arxiv.org/pdf/2404.03425.pdf) [[code]](https://github.com/ChenHongruixuan/MambaCD)
 - InsectMamba: Insect Pest Classification with State Space Model [[arxiv]](https://arxiv.org/pdf/2404.03611.pdf)
 - RS3Mamba: Visual State Space Model for Remote Sensing Images Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2404.02457.pdf) [[code]](https://github.com/sstary/SSRS)
