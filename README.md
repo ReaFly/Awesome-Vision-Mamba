@@ -42,6 +42,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration [[arxiv]](https://arxiv.org/pdf/2404.05105.pdf) [[code]](https://github.com/ziyangwang007/VMambaMorph)
 - T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation [[arxiv]](https://arxiv.org/pdf/2404.01065.pdf) [[code]](https://github.com/isbrycee/T-Mamba)
 - Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.17701.pdf)
 - H-vmunet: High-order Vision Mamba UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.13642.pdf) [[code]](https://github.com/wurenkai/H-vmunet)
