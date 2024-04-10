@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos [[arxiv]](https://arxiv.org/pdf/2404.06483.pdf) [[code]](https://github.com/zizheng-guo/RhythmMamba)
 - Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2404.04256.pdf) [[code]](https://github.com/zifuwan/Sigma)
 - ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [[arxiv]](https://arxiv.org/pdf/2404.03425.pdf) [[code]](https://github.com/ChenHongruixuan/MambaCD)
 - InsectMamba: Insect Pest Classification with State Space Model [[arxiv]](https://arxiv.org/pdf/2404.03611.pdf)
