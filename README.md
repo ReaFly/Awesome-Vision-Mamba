@@ -2,6 +2,8 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection  [[arxiv]](https://arxiv.org/pdf/2404.06564.pdf) [[code]](https://lewandofskee.github.io/projects/MambaAD/)
+- 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion [[arxiv]](https://arxiv.org/pdf/2404.07106.pdf) 
 - RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos [[arxiv]](https://arxiv.org/pdf/2404.06483.pdf) [[code]](https://github.com/zizheng-guo/RhythmMamba)
 - Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2404.04256.pdf) [[code]](https://github.com/zifuwan/Sigma)
 - ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model [[arxiv]](https://arxiv.org/pdf/2404.03425.pdf) [[code]](https://github.com/ChenHongruixuan/MambaCD)
