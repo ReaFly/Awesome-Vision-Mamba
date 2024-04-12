@@ -2,6 +2,9 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [[arxiv]](https://arxiv.org/pdf/2404.07645.pdf)
+- DGMamba: Domain Generalization via Generalized State Space Model  [[arxiv]](https://arxiv.org/pdf/2404.07794.pdf) [[code]](https://github.com/longshaocong/DGMamba)
+- FusionMamba: Efficient Image Fusion with State Space Model  [[arxiv]](https://arxiv.org/pdf/2404.07932.pdf)
 - MambaAD: Exploring State Space Models for Multi-class Unsupervised Anomaly Detection  [[arxiv]](https://arxiv.org/pdf/2404.06564.pdf) [[code]](https://lewandofskee.github.io/projects/MambaAD/)
 - 3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion [[arxiv]](https://arxiv.org/pdf/2404.07106.pdf) 
 - RhythmMamba: Fast Remote Physiological Measurement with Arbitrary Length Videos [[arxiv]](https://arxiv.org/pdf/2404.06483.pdf) [[code]](https://github.com/zizheng-guo/RhythmMamba)
@@ -45,6 +48,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- ViM-UNet: Vision Mamba for Biomedical Segmentation [[arxiv]](https://arxiv.org/pdf/2404.07705.pdf) [[code]](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)
 - VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration [[arxiv]](https://arxiv.org/pdf/2404.05105.pdf) [[code]](https://github.com/ziyangwang007/VMambaMorph)
 - T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation [[arxiv]](https://arxiv.org/pdf/2404.01065.pdf) [[code]](https://github.com/isbrycee/T-Mamba)
 - Rotate to Scan: UNet-like Mamba with Triplet SSM Module for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2403.17701.pdf)
