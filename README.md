@@ -2,6 +2,8 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Computer Vision
+- MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion [[arxiv]](https://arxiv.org/pdf/2404.08406.pdf) 
+- SpectralMamba: Efficient Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2404.08489.pdf) [[code]](https://github.com/danfenghong/SpectralMamba)
 - Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [[arxiv]](https://arxiv.org/pdf/2404.07645.pdf)
 - DGMamba: Domain Generalization via Generalized State Space Model  [[arxiv]](https://arxiv.org/pdf/2404.07794.pdf) [[code]](https://github.com/longshaocong/DGMamba)
 - FusionMamba: Efficient Image Fusion with State Space Model  [[arxiv]](https://arxiv.org/pdf/2404.07932.pdf)
