@@ -1,7 +1,14 @@
 # Awesome-Vision-Mamba
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
+## Survey
+- State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
+
 ## Computer Vision
+- A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion [[arxiv]](https://arxiv.org/pdf/2404.09293.pdf) 
+- Fusion-Mamba for Cross-modality Object Detection [[arxiv]](https://arxiv.org/pdf/2404.09146.pdf) 
+- FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining [[arxiv]](https://arxiv.org/pdf/2404.09476.pdf)
+- HSIDMamba: Exploring Bidirectional State-Space Models for Hyperspectral Denoising [[arxiv]](https://arxiv.org/pdf/2404.09697.pdf)
 - MambaDFuse: A Mamba-based Dual-phase Model for Multi-modality Image Fusion [[arxiv]](https://arxiv.org/pdf/2404.08406.pdf) 
 - SpectralMamba: Efficient Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2404.08489.pdf) [[code]](https://github.com/danfenghong/SpectralMamba)
 - Simba: Mamba augmented U-ShiftGCN for Skeletal Action Recognition in Videos [[arxiv]](https://arxiv.org/pdf/2404.07645.pdf)
@@ -50,6 +57,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba [[arxiv]](https://arxiv.org/pdf/2404.09498.pdf) [[code]](https://github.com/millieXie/FusionMamba)
 - ViM-UNet: Vision Mamba for Biomedical Segmentation [[arxiv]](https://arxiv.org/pdf/2404.07705.pdf) [[code]](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)
 - VMambaMorph: a Visual Mamba-based Framework with Cross-Scan Module for Deformable 3D Image Registration [[arxiv]](https://arxiv.org/pdf/2404.05105.pdf) [[code]](https://github.com/ziyangwang007/VMambaMorph)
 - T-Mamba: Frequency-Enhanced Gated Long-Range Dependency for Tooth 3D CBCT Segmentation [[arxiv]](https://arxiv.org/pdf/2404.01065.pdf) [[code]](https://github.com/isbrycee/T-Mamba)
