@@ -5,6 +5,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion [[arxiv]](https://arxiv.org/pdf/2404.11375.pdf) 
 - A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion [[arxiv]](https://arxiv.org/pdf/2404.09293.pdf) 
 - Fusion-Mamba for Cross-modality Object Detection [[arxiv]](https://arxiv.org/pdf/2404.09146.pdf) 
 - FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining [[arxiv]](https://arxiv.org/pdf/2404.09476.pdf)
