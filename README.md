@@ -5,6 +5,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration [[arxiv]](https://arxiv.org/pdf/2404.11778.pdf)
+- MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking [[arxiv]](https://arxiv.org/pdf/2404.12083.pdf)
 - Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion [[arxiv]](https://arxiv.org/pdf/2404.11375.pdf) 
 - A Novel State Space Model with Local Enhancement and State Sharing for Image Fusion [[arxiv]](https://arxiv.org/pdf/2404.09293.pdf) 
 - Fusion-Mamba for Cross-modality Object Detection [[arxiv]](https://arxiv.org/pdf/2404.09146.pdf) 
