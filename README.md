@@ -5,6 +5,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model [[arxiv]](https://arxiv.org/pdf/2404.12794.pdf) [[code]](https://github.com/Terminal-K/MambaMOS)
 - CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration [[arxiv]](https://arxiv.org/pdf/2404.11778.pdf)
 - MambaPupil: Bidirectional Selective Recurrent model for Event-based Eye tracking [[arxiv]](https://arxiv.org/pdf/2404.12083.pdf)
 - Text-controlled Motion Mamba: Text-Instructed Temporal Grounding of Human Motion [[arxiv]](https://arxiv.org/pdf/2404.11375.pdf) 
