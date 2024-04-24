@@ -5,6 +5,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [[arxiv]](https://arxiv.org/pdf/2404.14966.pdf)
 - MambaUIE: Unraveling the Ocean's Secrets with Only 2.8 FLOPs [[arxiv]](https://arxiv.org/pdf/2404.13884.pdf) [[code]](https://github.com/1024AILab/MambaUIE)
 - MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model [[arxiv]](https://arxiv.org/pdf/2404.12794.pdf) [[code]](https://github.com/Terminal-K/MambaMOS)
 - CU-Mamba: Selective State Space Models with Channel Learning for Image Restoration [[arxiv]](https://arxiv.org/pdf/2404.11778.pdf)
