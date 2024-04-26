@@ -2,10 +2,12 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Survey
+- Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges [[arxiv]](https://arxiv.org/pdf/2404.16112)
 - A Survey on Visual Mamba [[arxiv]](https://arxiv.org/pdf/2404.15956.pdf)
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions [[arxiv]](https://arxiv.org/pdf/2404.16302) [[code]](https://github.com/lhy-zjut/CFMW)
 - Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [[arxiv]](https://arxiv.org/pdf/2404.14966.pdf)
 - MambaUIE: Unraveling the Ocean's Secrets with Only 2.8 FLOPs [[arxiv]](https://arxiv.org/pdf/2404.13884.pdf) [[code]](https://github.com/1024AILab/MambaUIE)
 - MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model [[arxiv]](https://arxiv.org/pdf/2404.12794.pdf) [[code]](https://github.com/Terminal-K/MambaMOS)
