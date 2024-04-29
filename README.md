@@ -7,6 +7,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model [[arxiv]](https://arxiv.org/pdf/2404.17484)
 - CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions [[arxiv]](https://arxiv.org/pdf/2404.16302) [[code]](https://github.com/lhy-zjut/CFMW)
 - Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [[arxiv]](https://arxiv.org/pdf/2404.14966.pdf)
 - MambaUIE: Unraveling the Ocean's Secrets with Only 2.8 FLOPs [[arxiv]](https://arxiv.org/pdf/2404.13884.pdf) [[code]](https://github.com/1024AILab/MambaUIE)
