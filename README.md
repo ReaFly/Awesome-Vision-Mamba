@@ -2,11 +2,16 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Survey
+- A Survey on Vision Mamba: Models, Applications and Challenges [[arxiv]](https://arxiv.org/pdf/2404.18861)
 - Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges [[arxiv]](https://arxiv.org/pdf/2404.16112)
 - A Survey on Visual Mamba [[arxiv]](https://arxiv.org/pdf/2404.15956.pdf)
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Mamba-FETrack: Frame-Event Tracking via State Space Model [[arxiv]](https://arxiv.org/pdf/2404.18174)  [[code]](https://github.com/Event-AHU/Mamba_FETrack)
+- S2Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2404.18213) [[code]](https://github.com/PURE-melo/S2Mamba)
+- Spectral-Spatial Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2404.18401)
+- RSCaMa: Remote Sensing Image Change Captioning with State Space Model [[arxiv]](https://arxiv.org/pdf/2404.18895) [[code]](https://github.com/Chen-Yang-Liu/RSCaMa)
 - Sparse Reconstruction of Optical Doppler Tomography Based on State Space Model [[arxiv]](https://arxiv.org/pdf/2404.17484)
 - CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions [[arxiv]](https://arxiv.org/pdf/2404.16302) [[code]](https://github.com/lhy-zjut/CFMW)
 - Mamba3D: Enhancing Local Features for 3D Point Cloud Analysis via State Space Model [[arxiv]](https://arxiv.org/pdf/2404.14966.pdf)
