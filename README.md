@@ -8,6 +8,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation [[arxiv]](https://arxiv.org/pdf/2404.19394) [[code]](https://github.com/raytrun/mamba-clip)
 - Mamba-FETrack: Frame-Event Tracking via State Space Model [[arxiv]](https://arxiv.org/pdf/2404.18174)  [[code]](https://github.com/Event-AHU/Mamba_FETrack)
 - S2Mamba: A Spatial-spectral State Space Model for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2404.18213) [[code]](https://github.com/PURE-melo/S2Mamba)
 - Spectral-Spatial Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2404.18401)
