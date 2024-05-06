@@ -8,7 +8,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
-- SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising [[arxiv]](https://arxiv.org/pdf/2405.01726) [code]](https://github.com/lronkitty/SSUMamba)
+- SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising [[arxiv]](https://arxiv.org/pdf/2405.01726) [[code]](https://github.com/lronkitty/SSUMamba)
 - FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space [[arxiv]](https://arxiv.org/pdf/2405.01828) [[code]](https://github.com/SwjtuMa/FER-YOLO-Mamba)
 - CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation [[arxiv]](https://arxiv.org/pdf/2404.19394) [[code]](https://github.com/raytrun/mamba-clip)
 - Mamba-FETrack: Frame-Event Tracking via State Space Model [[arxiv]](https://arxiv.org/pdf/2404.18174)  [[code]](https://github.com/Event-AHU/Mamba_FETrack)
