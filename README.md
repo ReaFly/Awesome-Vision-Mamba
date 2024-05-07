@@ -8,6 +8,11 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- DVMSR: Distillated Vision Mamba for Efficient Super-Resolution [[arxiv]](https://arxiv.org/pdf/2405.03008) [[code]](https://github.com/nathan66666/DVMSR)
+- SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion [[arxiv]](https://arxiv.org/pdf/2405.02844)
+- Matten: Video Generation with Mamba-Attention [[arxiv]](https://arxiv.org/pdf/2405.03025)
+- Retinexmamba: Retinex-based Mamba for Low-light Image Enhancement [[arxiv]](https://arxiv.org/pdf/2405.03349) [[code]](https://github.com/YhuoyuH/RetinexMamba)
+- MemoryMamba: Memory-Augmented State Space Model for Defect Recognition [[arxiv]](https://arxiv.org/pdf/2405.03673)
 - SSUMamba: Spatial-Spectral Selective State Space Model for Hyperspectral Image Denoising [[arxiv]](https://arxiv.org/pdf/2405.01726) [[code]](https://github.com/lronkitty/SSUMamba)
 - FER-YOLO-Mamba: Facial Expression Detection and Classification Based on Selective State Space [[arxiv]](https://arxiv.org/pdf/2405.01828) [[code]](https://github.com/SwjtuMa/FER-YOLO-Mamba)
 - CLIP-Mamba: CLIP Pretrained Mamba Models with OOD and Hessian Evaluation [[arxiv]](https://arxiv.org/pdf/2404.19394) [[code]](https://github.com/raytrun/mamba-clip)
@@ -75,6 +80,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation [[arxiv]](https://arxiv.org/pdf/2405.03011) [[code]](https://github.com/vietthanh2710/AC-MambaSeg)
 - Vim4Path: Self-Supervised Vision Mamba for Histopathology Images [[arxiv]](https://arxiv.org/pdf/2404.13222.pdf) [[code]](https://github.com/AtlasAnalyticsLab/Vim4Path)
 - FusionMamba: Dynamic Feature Enhancement for Multimodal Image Fusion with Mamba [[arxiv]](https://arxiv.org/pdf/2404.09498.pdf) [[code]](https://github.com/millieXie/FusionMamba)
 - ViM-UNet: Vision Mamba for Biomedical Segmentation [[arxiv]](https://arxiv.org/pdf/2404.07705.pdf) [[code]](https://github.com/constantinpape/torch-em/blob/main/vimunet.md)
