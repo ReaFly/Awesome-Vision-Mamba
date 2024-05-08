@@ -2,12 +2,14 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Survey
+- Vision Mamba: A Comprehensive Survey and Taxonomy [[arxiv]](https://arxiv.org/pdf/2405.04404)
 - A Survey on Vision Mamba: Models, Applications and Challenges [[arxiv]](https://arxiv.org/pdf/2404.18861)
 - Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges [[arxiv]](https://arxiv.org/pdf/2404.16112)
 - A Survey on Visual Mamba [[arxiv]](https://arxiv.org/pdf/2404.15956.pdf)
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- VMambaCC: A Visual State Space Model for Crowd Counting [[arxiv]](https://arxiv.org/pdf/2405.03978)
 - DVMSR: Distillated Vision Mamba for Efficient Super-Resolution [[arxiv]](https://arxiv.org/pdf/2405.03008) [[code]](https://github.com/nathan66666/DVMSR)
 - SMCD: High Realism Motion Style Transfer via Mamba-based Diffusion [[arxiv]](https://arxiv.org/pdf/2405.02844)
 - Matten: Video Generation with Mamba-Attention [[arxiv]](https://arxiv.org/pdf/2405.03025)
