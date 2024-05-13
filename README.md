@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba [[arxiv]](https://arxiv.org/pdf/2405.06116)
 - Frequency-Assisted Mamba for Remote Sensing Image Super-Resolution [[arxiv]](https://arxiv.org/pdf/2405.04964)
 - StyleMamba: State Space Model for Efficient Text-driven Image Style Transfer [[arxiv]](https://arxiv.org/pdf/2405.05027)
 - VMambaCC: A Visual State Space Model for Crowd Counting [[arxiv]](https://arxiv.org/pdf/2405.03978)
