@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- WaterMamba: Visual State Space Model for Underwater Image Enhancement [[arxiv]](https://arxiv.org/pdf/2405.08419)
+- Rethinking Scanning Strategies with Vision Mamba in Semantic Segmentation of Remote Sensing Imagery: An Experimental Study [[arxiv]](https://arxiv.org/pdf/2405.08493)
 - MambaOut: Do We Really Need Mamba for Vision? [[arxiv]](https://arxiv.org/pdf/2405.07992) [[code]](https://github.com/yuweihao/MambaOut)
 - OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition [[arxiv]](https://arxiv.org/pdf/2405.07966) 
 - Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba [[arxiv]](https://arxiv.org/pdf/2405.06116)
