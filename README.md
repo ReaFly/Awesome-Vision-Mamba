@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2405.10530) [[code]](https://github.com/XiaoBuL/CM-UNet)
 - IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model [[arxiv]](https://arxiv.org/pdf/2405.09873) [[code]](https://github.com/yongsongH/IRSRMamba)
 - RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing [[arxiv]](https://arxiv.org/pdf/2405.10030) 
 - WaterMamba: Visual State Space Model for Underwater Image Enhancement [[arxiv]](https://arxiv.org/pdf/2405.08419)
