@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2405.12003) [[code]](https://github.com/zhouweilian1904/Mamba-in-Mamba)
 - CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2405.10530) [[code]](https://github.com/XiaoBuL/CM-UNet)
 - IRSRMamba: Infrared Image Super-Resolution via Mamba-based Wavelet Transform Feature Modulation Model [[arxiv]](https://arxiv.org/pdf/2405.09873) [[code]](https://github.com/yongsongH/IRSRMamba)
 - RSDehamba: Lightweight Vision Mamba for Remote Sensing Satellite Image Dehazing [[arxiv]](https://arxiv.org/pdf/2405.10030) 
