@@ -9,6 +9,12 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model [[arxiv]](https://arxiv.org/pdf/2405.14174) [[code]](https://github.com/YuHengsss/MSVMamba)
+- DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis [[arxiv]](https://arxiv.org/pdf/2405.14224) 
+- MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models [[arxiv]](https://arxiv.org/pdf/2405.14338)
+- Scalable Visual State Space Model with Fractal Scanning [[arxiv]](https://arxiv.org/pdf/2405.14480)
+- Efficient Visual State Space Model for Image Deblurring [[arxiv]](https://arxiv.org/pdf/2405.14343)
+- Mamba®: Vision Mamba ALSO Needs Registers [[arxiv]](https://arxiv.org/pdf/2405.14858) [[code]](https://wangf3014.github.io/mambar-page/)
 - 3DSS-Mamba: 3D-Spectral-Spatial Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2405.12487)
 - Mamba-in-Mamba: Centralized Mamba-Cross-Scan in Tokenized Mamba Model for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2405.12003) [[code]](https://github.com/zhouweilian1904/Mamba-in-Mamba)
 - CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2405.10530) [[code]](https://github.com/XiaoBuL/CM-UNet)
@@ -94,6 +100,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling [[arxiv]]](https://arxiv.org/pdf/2405.14022)
 - VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis [[arxiv]](https://arxiv.org/pdf/2405.05667)
 - HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2405.05007)
 - AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation [[arxiv]](https://arxiv.org/pdf/2405.03011) [[code]](https://github.com/vietthanh2710/AC-MambaSeg)
