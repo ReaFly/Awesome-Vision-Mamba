@@ -100,7 +100,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
-- I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling [[arxiv]]](https://arxiv.org/pdf/2405.14022)
+- I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling [[arxiv]](https://arxiv.org/pdf/2405.14022)
 - VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis [[arxiv]](https://arxiv.org/pdf/2405.05667)
 - HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2405.05007)
 - AC-MAMBASEG: An adaptive convolution and Mamba-based architecture for enhanced skin lesion segmentation [[arxiv]](https://arxiv.org/pdf/2405.03011) [[code]](https://github.com/vietthanh2710/AC-MambaSeg)
