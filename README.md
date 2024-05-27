@@ -9,6 +9,9 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- MambaVC: Learned Visual Compression with Selective State Spaces [[arxiv]](https://arxiv.org/pdf/2405.15413)
+- PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis [[arxiv]](https://arxiv.org/pdf/2405.15463) [[code]](https://github.com/xiaoyao3302/PoinTramba)
+- Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models [[arxiv]](https://arxiv.org/pdf/2405.15574) [[code]](https://github.com/ByungKwanLee/Meteor)
 - Multi-Scale VMamba: Hierarchy in Hierarchy Visual State Space Model [[arxiv]](https://arxiv.org/pdf/2405.14174) [[code]](https://github.com/YuHengsss/MSVMamba)
 - DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis [[arxiv]](https://arxiv.org/pdf/2405.14224) 
 - MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models [[arxiv]](https://arxiv.org/pdf/2405.14338)
