@@ -9,6 +9,9 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space [[arxiv]](https://arxiv.org/pdf/2405.16105) [[code]](https://mamballie.github.io/anon/)
+- Image Deraining with Frequency-Enhanced State Space Model [[arxiv]](https://arxiv.org/pdf/2405.16470)
+- Demystify Mamba in Vision: A Linear Attention Perspective [[arxiv]](https://arxiv.org/pdf/2405.16605) [[code]](https://github.com/LeapLabTHU/MLLA)
 - MambaVC: Learned Visual Compression with Selective State Spaces [[arxiv]](https://arxiv.org/pdf/2405.15413)
 - PoinTramba: A Hybrid Transformer-Mamba Framework for Point Cloud Analysis [[arxiv]](https://arxiv.org/pdf/2405.15463) [[code]](https://github.com/xiaoyao3302/PoinTramba)
 - Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models [[arxiv]](https://arxiv.org/pdf/2405.15574) [[code]](https://github.com/ByungKwanLee/Meteor)
@@ -103,6 +106,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation [[arxiv]](https://arxiv.org/pdf/2405.15925) [[code]](https://github.com/chunyuyuan/MUCM-Net)
 - I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling [[arxiv]](https://arxiv.org/pdf/2405.14022)
 - VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis [[arxiv]](https://arxiv.org/pdf/2405.05667)
 - HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2405.05007)
