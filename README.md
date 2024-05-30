@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain [[arxiv]](https://arxiv.org/pdf/2405.18679) [[code]](https://github.com/yws-wxs/Vim-F)
 - MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space [[arxiv]](https://arxiv.org/pdf/2405.16105) [[code]](https://mamballie.github.io/anon/)
 - Image Deraining with Frequency-Enhanced State Space Model [[arxiv]](https://arxiv.org/pdf/2405.16470)
 - Demystify Mamba in Vision: A Linear Attention Perspective [[arxiv]](https://arxiv.org/pdf/2405.16605) [[code]](https://github.com/LeapLabTHU/MLLA)
