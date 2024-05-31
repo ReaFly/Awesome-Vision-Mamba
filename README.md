@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark [[arxiv]](https://arxiv.org/pdf/2405.19707) [[code]](https://github.com/chenhaoxing/DeMamba)
+- FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining [[arxiv]](https://arxiv.org/pdf/2405.19450)
 - Vim-F: Visual State Space Model Benefiting from Learning in the Frequency Domain [[arxiv]](https://arxiv.org/pdf/2405.18679) [[code]](https://github.com/yws-wxs/Vim-F)
 - MambaLLIE: Implicit Retinex-Aware Low Light Enhancement with Global-then-Local State Space [[arxiv]](https://arxiv.org/pdf/2405.16105) [[code]](https://mamballie.github.io/anon/)
 - Image Deraining with Frequency-Enhanced State Space Model [[arxiv]](https://arxiv.org/pdf/2405.16470)
