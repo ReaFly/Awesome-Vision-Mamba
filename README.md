@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network [[arxiv]](https://arxiv.org/pdf/2406.01059)
+- Dimba: Transformer-Mamba Diffusion Models [[arxiv]](https://arxiv.org/pdf/2406.01159) [[code]](https://dimba-project.github.io/)
 - S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion [[arxiv]](https://arxiv.org/pdf/2405.20881) 
 - DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark [[arxiv]](https://arxiv.org/pdf/2405.19707) [[code]](https://github.com/chenhaoxing/DeMamba)
 - FourierMamba: Fourier Learning Integration with State Space Models for Image Deraining [[arxiv]](https://arxiv.org/pdf/2405.19450)
