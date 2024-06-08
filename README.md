@@ -8,7 +8,10 @@
 - A Survey on Visual Mamba [[arxiv]](https://arxiv.org/pdf/2404.15956.pdf)
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
-## Computer Vision
+## Computer Vision 
+- RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation [[arxiv]](https://arxiv.org/pdf/2406.04339) [[code]](https://sites.google.com/view/robomamba-web)
+- GrootVL: Tree Topology is All You Need in State Space Model [[arxiv]](https://arxiv.org/pdf/2406.02395) [[code]](https://github.com/EasonXiao-888/GrootVL)
+- CDMamba: Remote Sensing Image Change Detection with Mamba [[arxiv]](https://arxiv.org/pdf/2406.04207) [[code]](https://github.com/zmoka-zht/CDMamba)
 - LLEMamba: Low-Light Enhancement via Relighting-Guided Mamba with Deep Unfolding Network [[arxiv]](https://arxiv.org/pdf/2406.01059)
 - Dimba: Transformer-Mamba Diffusion Models [[arxiv]](https://arxiv.org/pdf/2406.01159) [[code]](https://dimba-project.github.io/)
 - S4Fusion: Saliency-aware Selective State Space Model for Infrared Visible Image Fusion [[arxiv]](https://arxiv.org/pdf/2405.20881) 
