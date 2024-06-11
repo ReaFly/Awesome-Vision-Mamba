@@ -9,6 +9,12 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation [[arxiv]](https://arxiv.org/pdf/2406.04532) [[code]](https://github.com/ionut-grigore99/MambaDepth)
+- Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs [[arxiv]](https://arxiv.org/pdf/2406.05038) 
+- MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba [[arxiv]](https://arxiv.org/pdf/2406.05992) [[code]](https://github.com/PixDeep/MHS-VM)
+- HDMba: Hyperspectral Remote Sensing Imagery Dehazing with State Space Model [[arxiv]](https://arxiv.org/pdf/2406.05700) [[code]](https://github.com/RsAI-lab/HDMba)
+- Mamba YOLO: SSMs-Based YOLO For Object Detection [[arxiv]](https://arxiv.org/pdf/2406.05835) [[code]](https://github.com/HZAI-ZJNU/Mamba-YOLO)
+- MVGamba: Unify 3D Content Generation as State Space Sequence Modeling [[arxiv]](https://arxiv.org/pdf/2406.06367)
 - RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation [[arxiv]](https://arxiv.org/pdf/2406.04339) [[code]](https://sites.google.com/view/robomamba-web)
 - GrootVL: Tree Topology is All You Need in State Space Model [[arxiv]](https://arxiv.org/pdf/2406.02395) [[code]](https://github.com/EasonXiao-888/GrootVL)
 - CDMamba: Remote Sensing Image Change Detection with Mamba [[arxiv]](https://arxiv.org/pdf/2406.04207) [[code]](https://github.com/zmoka-zht/CDMamba)
@@ -115,6 +121,8 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans [[arxiv]](https://arxiv.org/pdf/2406.05757)
+- Convolution and Attention-Free Mamba-based Cardiac Image Segmentation [[arxiv]](https://arxiv.org/pdf/2406.05786)
 - MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation [[arxiv]](https://arxiv.org/pdf/2405.15925) [[code]](https://github.com/chunyuyuan/MUCM-Net)
 - I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling [[arxiv]](https://arxiv.org/pdf/2405.14022)
 - VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis [[arxiv]](https://arxiv.org/pdf/2405.05667)
