@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2406.07050)
+- Autoregressive Pretraining with Mamba in Vision [[arxiv]](https://arxiv.org/pdf/2406.07537) [[code]](https://github.com/OliverRensu/ARM)
 - MambaDepth: Enhancing Long-range Dependency for Self-Supervised Fine-Structured Monocular Depth Estimation [[arxiv]](https://arxiv.org/pdf/2406.04532) [[code]](https://github.com/ionut-grigore99/MambaDepth)
 - Efficient 3D Shape Generation via Diffusion Mamba with Bidirectional SSMs [[arxiv]](https://arxiv.org/pdf/2406.05038) 
 - MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba [[arxiv]](https://arxiv.org/pdf/2406.05992) [[code]](https://github.com/PixDeep/MHS-VM)
