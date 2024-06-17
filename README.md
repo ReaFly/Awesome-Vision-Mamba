@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment [[arxiv]](https://arxiv.org/pdf/2406.09546)
 - PixMamba: Leveraging State Space Models in a Dual-Level Architecture for Underwater Image Enhancement [[arxiv]](https://arxiv.org/pdf/2406.08444) [[code]](https://github.com/weitunglin/pixmamba)
 - Towards Evaluating the Robustness of Visual State Space Models [[arxiv]](https://arxiv.org/pdf/2406.09407) [[code]](https://github.com/HashmatShadab/MambaRobustness)
 - DualMamba: A Lightweight Spectral-Spatial Mamba-Convolution Network for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2406.07050)
