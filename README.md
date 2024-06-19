@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- LFMamba: Light Field Image Super-Resolution with State Space Model [[arxiv]](https://arxiv.org/pdf/2406.12463) 
 - Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection [[arxiv]](https://arxiv.org/pdf/2406.10700) [[code]](https://github.com/gwenzhang/Voxel-Mamba)
 - PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery [[arxiv]](https://arxiv.org/pdf/2406.10828)  [[code]](https://github.com/WangLibo1995/GeoSeg)
 - Q-Mamba: On First Exploration of Vision Mamba for Image Quality Assessment [[arxiv]](https://arxiv.org/pdf/2406.09546)
