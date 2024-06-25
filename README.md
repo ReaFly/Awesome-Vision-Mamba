@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces [[arxiv]](https://arxiv.org/pdf/2406.16518)
 - LFMamba: Light Field Image Super-Resolution with State Space Model [[arxiv]](https://arxiv.org/pdf/2406.12463) 
 - Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection [[arxiv]](https://arxiv.org/pdf/2406.10700) [[code]](https://github.com/gwenzhang/Voxel-Mamba)
 - PyramidMamba: Rethinking Pyramid Feature Fusion with Selective Space State Model for Semantic Segmentation of Remote Sensing Imagery [[arxiv]](https://arxiv.org/pdf/2406.10828)  [[code]](https://github.com/WangLibo1995/GeoSeg)
@@ -129,6 +130,8 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- Soft Masked Mamba Diffusion Model for CT to MRI Conversion [[arxiv]](https://arxiv.org/pdf/2406.15910) [[code]](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)
+- SEDMamba: Enhancing Selective State Space Modelling with Bottleneck Mechanism and Fine-to-Coarse Temporal Fusion for Efficient Error Detection in Robot-Assisted Surgery [[arxiv]](https://arxiv.org/pdf/2406.15920) 
 - Vision Mamba: Cutting-Edge Classification of Alzheimer's Disease with 3D MRI Scans [[arxiv]](https://arxiv.org/pdf/2406.05757)
 - Convolution and Attention-Free Mamba-based Cardiac Image Segmentation [[arxiv]](https://arxiv.org/pdf/2406.05786)
 - MUCM-Net: A Mamba Powered UCM-Net for Skin Lesion Segmentation [[arxiv]](https://arxiv.org/pdf/2405.15925) [[code]](https://github.com/chunyuyuan/MUCM-Net)
