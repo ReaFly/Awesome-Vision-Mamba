@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model [[arxiv]](https://arxiv.org/pdf/2406.17442)
 - Vision Mamba-based autonomous crack segmentation on concrete, asphalt, and masonry surfaces [[arxiv]](https://arxiv.org/pdf/2406.16518)
 - LFMamba: Light Field Image Super-Resolution with State Space Model [[arxiv]](https://arxiv.org/pdf/2406.12463) 
 - Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection [[arxiv]](https://arxiv.org/pdf/2406.10700) [[code]](https://github.com/gwenzhang/Voxel-Mamba)
