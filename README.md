@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders [[arxiv]](https://arxiv.org/pdf/2407.02228) [[code]](https://github.com/EnVision-Research/MTMamba)
+- VFIMamba: Video Frame Interpolation with State Space Models [[arxiv]](https://arxiv.org/pdf/2407.02315) [[code]](https://github.com/MCG-NJU/VFIMamba)
 - Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model [[arxiv]](https://arxiv.org/pdf/2406.19369) [[code]](https://github.com/HarborYuan/ovsam)
 - VideoMambaPro: A Leap Forward for Mamba in Video Understanding [[arxiv]](https://arxiv.org/pdf/2406.19006) [[code]](https://github.com/hotfinda/VideoMambaPro)
 - Mamba24/8D: Enhancing Global Interaction in Point Clouds via State Space Model [[arxiv]](https://arxiv.org/pdf/2406.17442)
