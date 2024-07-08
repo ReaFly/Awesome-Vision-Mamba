@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024 [[arxiv]](https://arxiv.org/pdf/2407.04184)
 - MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders [[arxiv]](https://arxiv.org/pdf/2407.02228) [[code]](https://github.com/EnVision-Research/MTMamba)
 - VFIMamba: Video Frame Interpolation with State Space Models [[arxiv]](https://arxiv.org/pdf/2407.02315) [[code]](https://github.com/MCG-NJU/VFIMamba)
 - Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model [[arxiv]](https://arxiv.org/pdf/2406.19369) [[code]](https://github.com/HarborYuan/ovsam)
@@ -136,6 +137,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- Vision Mamba for Classification of Breast Ultrasound Images [[arxiv]](https://arxiv.org/pdf/2407.03552)
 - MMR-Mamba: Multi-Contrast MRI Reconstruction with Mamba and Spatial-Frequency Information Fusion [[arxiv]](https://arxiv.org/pdf/2406.18950)
 - Soft Masked Mamba Diffusion Model for CT to MRI Conversion [[arxiv]](https://arxiv.org/pdf/2406.15910) [[code]](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)
 - SEDMamba: Enhancing Selective State Space Modelling with Bottleneck Mechanism and Fine-to-Coarse Temporal Fusion for Efficient Error Detection in Robot-Assisted Surgery [[arxiv]](https://arxiv.org/pdf/2406.15920) 
