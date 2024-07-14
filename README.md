@@ -9,6 +9,11 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- A Mamba-based Siamese Network for Remote Sensing Change Detection [[arxiv]](https://arxiv.org/pdf/2407.06839) [[code]](https://github.com/JayParanjape/M-CD)
+- HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model [[arxiv]](https://arxiv.org/pdf/2407.06841) [[code]](https://github.com/shendb2022/HTD-Mamba)
+- MambaVision: A Hybrid Mamba-Transformer Vision Backbone [[arxiv]](https://arxiv.org/pdf/2407.08083) [[code]](https://github.com/NVlabs/MambaVision)
+- DMM: Disparity-guided Multispectral Mamba for Oriented Object Detection in Remote Sensing [[arxiv]](https://arxiv.org/pdf/2407.08132) [[code]](https://github.com/Another-0/DMM)
+- GraphMamba: An Efficient Graph Structure Learning Vision Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2407.08255) [[code]](https://github.com/ahappyyang/GraphMamba)
 - VideoMamba: Spatio-Temporal Selective State Space Model [[arxiv]](https://arxiv.org/pdf/2407.08476)
 - Mamba-FSCIL: Dynamic Adaptation with Selective State Space Model for Few-Shot Class-Incremental Learning [[arxiv]](https://arxiv.org/pdf/2407.06136) [[code]](https://github.com/xiaojieli0903/Mamba-FSCIL)
 - QueryMamba: A Mamba-Based Encoder-Decoder Architecture with a Statistical Verb-Noun Interaction Module for Video Action Forecasting @ Ego4D Long-Term Action Anticipation Challenge 2024 [[arxiv]](https://arxiv.org/pdf/2407.04184)
@@ -139,6 +144,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- SliceMamba for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2407.08481)
 - SR-Mamba: Effective Surgical Phase Recognition with State Space Model [[arxiv]](https://arxiv.org/pdf/2407.08333) [[code]](https://github.com/rcao-hk/SR-Mamba)
 - Deform-Mamba Network for MRI Super-Resolution [[arxiv]](https://arxiv.org/pdf/2407.05969) 
 - Vision Mamba for Classification of Breast Ultrasound Images [[arxiv]](https://arxiv.org/pdf/2407.03552)
