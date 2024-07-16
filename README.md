@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation [[arxiv]](https://arxiv.org/pdf/2407.10061) [[code]](https://steve-zeyu-zhang.github.io/InfiniMotion/)
+- OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting [[arxiv]](https://arxiv.org/pdf/2407.10923)
 - A Mamba-based Siamese Network for Remote Sensing Change Detection [[arxiv]](https://arxiv.org/pdf/2407.06839) [[code]](https://github.com/JayParanjape/M-CD)
 - HTD-Mamba: Efficient Hyperspectral Target Detection with Pyramid State Space Model [[arxiv]](https://arxiv.org/pdf/2407.06841) [[code]](https://github.com/shendb2022/HTD-Mamba)
 - MambaVision: A Hybrid Mamba-Transformer Vision Backbone [[arxiv]](https://arxiv.org/pdf/2407.08083) [[code]](https://github.com/NVlabs/MambaVision)
