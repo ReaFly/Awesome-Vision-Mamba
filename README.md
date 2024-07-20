@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model [[arxiv]](https://arxiv.org/pdf/2407.12319)
+- GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model [[arxiv]](https://arxiv.org/pdf/2407.13772) [[code]](https://github.com/Amshaker/GroupMamba)
 - InfiniMotion: Mamba Boosts Memory in Transformer for Arbitrary Long Motion Generation [[arxiv]](https://arxiv.org/pdf/2407.10061) [[code]](https://steve-zeyu-zhang.github.io/InfiniMotion/)
 - OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting [[arxiv]](https://arxiv.org/pdf/2407.10923)
 - A Mamba-based Siamese Network for Remote Sensing Change Detection [[arxiv]](https://arxiv.org/pdf/2407.06839) [[code]](https://github.com/JayParanjape/M-CD)
