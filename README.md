@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- LION: Linear Group RNN for 3D Object Detection in Point Clouds [[arxiv]](https://arxiv.org/pdf/2407.18232) [[code]](https://happinesslz.github.io/projects/LION/)
+- ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement [[arxiv]](https://arxiv.org/pdf/2407.17705) [[code]](https://github.com/qsc1103/ALMRR)
 - Mamba meets crack segmentation [[arxiv]](https://arxiv.org/pdf/2407.15714) 
 - Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model [[arxiv]](https://arxiv.org/pdf/2407.12319)
 - GroupMamba: Parameter-Efficient and Accurate Group Visual State Space Model [[arxiv]](https://arxiv.org/pdf/2407.13772) [[code]](https://github.com/Amshaker/GroupMamba)
