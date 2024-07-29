@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- VSSD: Vision Mamba with Non-Casual State Space Duality [[arxiv]](https://arxiv.org/pdf/2407.18559) [[code]](https://github.com/YuHengsss/VSSD)
 - LION: Linear Group RNN for 3D Object Detection in Point Clouds [[arxiv]](https://arxiv.org/pdf/2407.18232) [[code]](https://happinesslz.github.io/projects/LION/)
 - ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement [[arxiv]](https://arxiv.org/pdf/2407.17705) [[code]](https://github.com/qsc1103/ALMRR)
 - Mamba meets crack segmentation [[arxiv]](https://arxiv.org/pdf/2407.15714) 
