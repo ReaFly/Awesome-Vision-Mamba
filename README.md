@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2 [[arxiv]](https://arxiv.org/pdf/2407.19832) [[code]](https://wenjunhuang94.github.io/ML-Mamba/)
 - VSSD: Vision Mamba with Non-Casual State Space Duality [[arxiv]](https://arxiv.org/pdf/2407.18559) [[code]](https://github.com/YuHengsss/VSSD)
 - LION: Linear Group RNN for 3D Object Detection in Point Clouds [[arxiv]](https://arxiv.org/pdf/2407.18232) [[code]](https://happinesslz.github.io/projects/LION/)
 - ALMRR: Anomaly Localization Mamba on Industrial Textured Surface with Feature Reconstruction and Refinement [[arxiv]](https://arxiv.org/pdf/2407.17705) [[code]](https://github.com/qsc1103/ALMRR)
@@ -152,6 +153,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration [[arxiv]](https://arxiv.org/pdf/2407.19274) 
 - GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI [[arxiv]](https://arxiv.org/pdf/2407.15719) [[code]](https://github.com/Tinysqua/GFE-Mamba)
 - SliceMamba for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2407.08481)
 - SR-Mamba: Effective Surgical Phase Recognition with State Space Model [[arxiv]](https://arxiv.org/pdf/2407.08333) [[code]](https://github.com/rcao-hk/SR-Mamba)
