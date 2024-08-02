@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection [[arxiv]](https://arxiv.org/pdf/2408.00438)
 - RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining [[arxiv]](https://arxiv.org/pdf/2407.21773) [[code]](https://github.com/TonyHongtaoWu/RainMamba)
 - ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2 [[arxiv]](https://arxiv.org/pdf/2407.19832) [[code]](https://wenjunhuang94.github.io/ML-Mamba/)
 - VSSD: Vision Mamba with Non-Casual State Space Duality [[arxiv]](https://arxiv.org/pdf/2407.18559) [[code]](https://github.com/YuHengsss/VSSD)
