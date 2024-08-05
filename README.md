@@ -9,6 +9,11 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection [[arxiv]](https://arxiv.org/pdf/2408.01037) [[code]](https://github.com/XiangboGaoBarry/MambaST)
+- PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement [[arxiv]](https://arxiv.org/pdf/2408.01077)
+- WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2408.01231) [[code]](https://github.com/mahmad00)
+- Wave-Mamba: Wavelet State Space Model for Ultra-High-Definition Low-Light Image Enhancement [[arxiv]](https://arxiv.org/pdf/2408.01276) [[code]](https://github.com/AlexZou14/Wave-Mamba)
+- Spatial-Spectral Morphological Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2408.01372) [[code]](https://github.com/MHassaanButt/MorpMamba)
 - MonoMM: A Multi-scale Mamba-Enhanced Network for Real-time Monocular 3D Object Detection [[arxiv]](https://arxiv.org/pdf/2408.00438)
 - RainMamba: Enhanced Locality Learning with State Space Models for Video Deraining [[arxiv]](https://arxiv.org/pdf/2407.21773) [[code]](https://github.com/TonyHongtaoWu/RainMamba)
 - ML-Mamba: Efficient Multi-Modal Large Language Model Utilizing Mamba-2 [[arxiv]](https://arxiv.org/pdf/2407.19832) [[code]](https://wenjunhuang94.github.io/ML-Mamba/)
