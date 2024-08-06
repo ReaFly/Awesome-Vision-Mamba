@@ -9,6 +9,9 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[arxiv]](https://arxiv.org/pdf/2408.01627)
+- DeMansia: Mamba Never Forgets Any Tokens [[arxiv]](https://arxiv.org/pdf/2408.01986) [[code]](https://github.com/catalpaaa/DeMansia)
+- LaMamba-Diff: Linear-Time High-Fidelity Diffusion Models Based on Local Attention and Mamba [[arxiv]](https://arxiv.org/pdf/2408.02615)
 - MambaST: A Plug-and-Play Cross-Spectral Spatial-Temporal Fuser for Efficient Pedestrian Detection [[arxiv]](https://arxiv.org/pdf/2408.01037) [[code]](https://github.com/XiangboGaoBarry/MambaST)
 - PhysMamba: Leveraging Dual-Stream Cross-Attention SSD for Remote Physiological Measurement [[arxiv]](https://arxiv.org/pdf/2408.01077)
 - WaveMamba: Spatial-Spectral Wavelet Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2408.01231) [[code]](https://github.com/mahmad00)
