@@ -164,6 +164,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba [[arxiv]](https://arxiv.org/pdf/2408.02600) [[code]](https://github.com/LeoYML/BioMamba)
 - Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration [[arxiv]](https://arxiv.org/pdf/2407.19274) 
 - GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI [[arxiv]](https://arxiv.org/pdf/2407.15719) [[code]](https://github.com/Tinysqua/GFE-Mamba)
 - SliceMamba for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2407.08481)
