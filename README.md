@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model [[arxiv]](https://arxiv.org/pdf/2408.03540)
 - Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network [[arxiv]](https://arxiv.org/pdf/2408.02922)
 - JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[arxiv]](https://arxiv.org/pdf/2408.01627)
 - DeMansia: Mamba Never Forgets Any Tokens [[arxiv]](https://arxiv.org/pdf/2408.01986) [[code]](https://github.com/catalpaaa/DeMansia)
