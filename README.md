@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- QMambaBSR: Burst Image Super-Resolution with Query State Space Model [[arxiv]](https://arxiv.org/pdf/2408.08665)
+- RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba [[arxiv]](https://arxiv.org/pdf/2408.08827)
 - PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model [[arxiv]](https://arxiv.org/pdf/2408.03540)
 - Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network [[arxiv]](https://arxiv.org/pdf/2408.02922)
 - JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[arxiv]](https://arxiv.org/pdf/2408.01627)
