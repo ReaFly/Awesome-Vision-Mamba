@@ -11,6 +11,8 @@
 ## Computer Vision 
 - QMambaBSR: Burst Image Super-Resolution with Query State Space Model [[arxiv]](https://arxiv.org/pdf/2408.08665)
 - RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba [[arxiv]](https://arxiv.org/pdf/2408.08827)
+- ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba [[arxiv]](https://arxiv.org/pdf/2408.08087) [[code]](https://github.com/AlexYangxx/ColorMamba/)
+- MambaVT: Spatio-Temporal Contextual Modeling for robust RGB-T Tracking [[arxiv]](https://arxiv.org/pdf/2408.07889)
 - PoseMamba: Monocular 3D Human Pose Estimation with Bidirectional Global-Local Spatio-Temporal State Space Model [[arxiv]](https://arxiv.org/pdf/2408.03540)
 - Pose Magic: Efficient and Temporally Consistent Human Pose Estimation with a Hybrid Mamba-GCN Network [[arxiv]](https://arxiv.org/pdf/2408.02922)
 - JambaTalk: Speech-Driven 3D Talking Head Generation Based on Hybrid Transformer-Mamba Language Model [[arxiv]](https://arxiv.org/pdf/2408.01627)
@@ -167,6 +169,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- MambaMIM: Pre-training Mamba with State Space Token-interpolation [[arxiv]](https://arxiv.org/pdf/2408.08070) [[code]](https://github.com/FengheTan9/MambaMIM)
 - BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba [[arxiv]](https://arxiv.org/pdf/2408.02600) [[code]](https://github.com/LeoYML/BioMamba)
 - Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration [[arxiv]](https://arxiv.org/pdf/2407.19274) 
 - GFE-Mamba: Mamba-based AD Multi-modal Progression Assessment via Generative Feature Extraction from MCI [[arxiv]](https://arxiv.org/pdf/2407.15719) [[code]](https://github.com/Tinysqua/GFE-Mamba)
