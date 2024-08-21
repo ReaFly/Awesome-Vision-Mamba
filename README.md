@@ -9,6 +9,15 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model [[arxiv]](https://arxiv.org/pdf/2408.09178)
+- ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement [[arxiv]](https://arxiv.org/pdf/2408.09650) [[code]](https://github.com/eashanadhikarla/ExpoMamba)
+- MambaLoc: Efficient Camera Localisation via State Space Model [[arxiv]](https://arxiv.org/pdf/2408.09680)
+- OccMamba: Semantic Occupancy Prediction with State Space Models [[arxiv]](https://arxiv.org/pdf/2408.09859)
+- Multi-Scale Representation Learning for Image Restoration with State-Space Model [[arxiv]](https://arxiv.org/pdf/2408.10145)
+- MambaDS: Near-Surface Meteorological Field Downscaling with Topography Constrained Selective State Space Modeling [[arxiv]](https://arxiv.org/pdf/2408.10854)
+- MambaEVT: Event Stream based Visual Object Tracking using State Space Model [[arxiv]](https://arxiv.org/pdf/2408.10487) [[code]](https://github.com/Event-AHU/MambaEVT)
+- MUSE: Mamba is Efficient Multi-scale Learner for Text-video Retrieval [[arxiv]](https://arxiv.org/pdf/2408.10575) [[code]](https://github.com/hrtang22/MUSE)
+- DemMamba: Alignment-free Raw Video Demoireing with Frequency-assisted Spatio-Temporal Mamba [[arxiv]](https://arxiv.org/pdf/2408.10679) 
 - QMambaBSR: Burst Image Super-Resolution with Query State Space Model [[arxiv]](https://arxiv.org/pdf/2408.08665)
 - RGBT Tracking via All-layer Multimodal Interactions with Progressive Fusion Mamba [[arxiv]](https://arxiv.org/pdf/2408.08827)
 - ColorMamba: Towards High-quality NIR-to-RGB Spectral Translation with Mamba [[arxiv]](https://arxiv.org/pdf/2408.08087) [[code]](https://github.com/AlexYangxx/ColorMamba/)
