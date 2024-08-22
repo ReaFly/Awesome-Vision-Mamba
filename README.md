@@ -9,6 +9,10 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering [[arxiv]](https://arxiv.org/pdf/2408.11464) [[code]](https://github.com/Hub-Tian/MambaOcc)
+- UNetMamba: Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images [[arxiv]](https://arxiv.org/pdf/2408.11545) [[code]](https://github.com/EnzeZhu2001/UNetMamba)
+- Exploring Robustness of Visual State Space model against Backdoor Attacks [[arxiv]](https://arxiv.org/pdf/2408.11679)
+- MambaCSR: Dual-Interleaved Scanning for Compressed Image Super-Resolution With SSMs [[arxiv]](https://arxiv.org/pdf/2408.11758)
 - MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model [[arxiv]](https://arxiv.org/pdf/2408.09178)
 - ExpoMamba: Exploiting Frequency SSM Blocks for Efficient and Effective Image Enhancement [[arxiv]](https://arxiv.org/pdf/2408.09650) [[code]](https://github.com/eashanadhikarla/ExpoMamba)
 - MambaLoc: Efficient Camera Localisation via State Space Model [[arxiv]](https://arxiv.org/pdf/2408.09680)
