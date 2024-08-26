@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- O-Mamba: O-shape State-Space Model for Underwater Image Enhancement [[arxiv]](https://arxiv.org/pdf/2408.12816) [[code]](https://github.com/chenydong/O-Mamba)
 - MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering [[arxiv]](https://arxiv.org/pdf/2408.11464) [[code]](https://github.com/Hub-Tian/MambaOcc)
 - UNetMamba: Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images [[arxiv]](https://arxiv.org/pdf/2408.11545) [[code]](https://github.com/EnzeZhu2001/UNetMamba)
 - Exploring Robustness of Visual State Space model against Backdoor Attacks [[arxiv]](https://arxiv.org/pdf/2408.11679)
