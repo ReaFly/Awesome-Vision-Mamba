@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model [[arxiv]](https://arxiv.org/pdf/2408.13574)
 - O-Mamba: O-shape State-Space Model for Underwater Image Enhancement [[arxiv]](https://arxiv.org/pdf/2408.12816) [[code]](https://github.com/chenydong/O-Mamba)
 - MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering [[arxiv]](https://arxiv.org/pdf/2408.11464) [[code]](https://github.com/Hub-Tian/MambaOcc)
 - UNetMamba: Efficient UNet-Like Mamba for Semantic Segmentation of High-Resolution Remote Sensing Images [[arxiv]](https://arxiv.org/pdf/2408.11545) [[code]](https://github.com/EnzeZhu2001/UNetMamba)
@@ -183,6 +184,9 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- MSVM-UNet: Multi-Scale Vision Mamba UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2408.13735) [[code]](https://github.com/gndlwch2w/msvm-unet)
+- ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation [[arxiv]](https://arxiv.org/pdf/2408.14114)
+- LoG-VMamba: Local-Global Vision Mamba for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2408.14415) [[code]](https://github.com/Oulu-IMEDS/LoG-VMamba)
 - MambaMIM: Pre-training Mamba with State Space Token-interpolation [[arxiv]](https://arxiv.org/pdf/2408.08070) [[code]](https://github.com/FengheTan9/MambaMIM)
 - BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba [[arxiv]](https://arxiv.org/pdf/2408.02600) [[code]](https://github.com/LeoYML/BioMamba)
 - Mamba? Catch The Hype Or Rethink What Really Helps for Image Registration [[arxiv]](https://arxiv.org/pdf/2407.19274) 
