@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training [[arxiv]](https://arxiv.org/pdf/2408.17081) [[code]](https://github.com/huangzizheng01/ShuffleMamba)
 - MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms [[arxiv]](https://arxiv.org/pdf/2408.15740) [[code]](https://github.com/nuozimiaowu/MambaPlace/tree/main)
 - ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning [[arxiv]](https://arxiv.org/pdf/2408.14868) [[code]](https://anonymous.4open.science/r/ZeroMamba)
 - MTMamba++: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders [[arxiv]](https://arxiv.org/pdf/2408.15101) [[code]](https://github.com/EnVision-Research/MTMamba)
