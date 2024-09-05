@@ -9,6 +9,9 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion [[arxiv]](https://arxiv.org/pdf/2409.01728)
+- FMRFT: Fusion Mamba and DETR for Query Time Sequence Intersection Fish Tracking [[arxiv]](https://arxiv.org/pdf/2409.01148) 
+- EDCSSM: Edge Detection with Convolutional State Space Model [[arxiv]](https://arxiv.org/pdf/2409.01609)
 - Stochastic Layer-Wise Shuffle: A Good Practice to Improve Vision Mamba Training [[arxiv]](https://arxiv.org/pdf/2408.17081) [[code]](https://github.com/huangzizheng01/ShuffleMamba)
 - MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms [[arxiv]](https://arxiv.org/pdf/2408.15740) [[code]](https://github.com/nuozimiaowu/MambaPlace/tree/main)
 - ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning [[arxiv]](https://arxiv.org/pdf/2408.14868) [[code]](https://anonymous.4open.science/r/ZeroMamba)
