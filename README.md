@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion [[arxiv]](https://arxiv.org/pdf/2409.03223)
+- UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images [[arxiv]](https://arxiv.org/pdf/2409.03431)
 - Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion [[arxiv]](https://arxiv.org/pdf/2409.01728)
 - FMRFT: Fusion Mamba and DETR for Query Time Sequence Intersection Fish Tracking [[arxiv]](https://arxiv.org/pdf/2409.01148) 
 - EDCSSM: Edge Detection with Convolutional State Space Model [[arxiv]](https://arxiv.org/pdf/2409.01609)
