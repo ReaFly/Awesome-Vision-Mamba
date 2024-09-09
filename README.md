@@ -193,6 +193,8 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- MpoxMamba: A Grouped Mamba-based Lightweight Hybrid Network for Mpox Detection [[arxiv]](https://arxiv.org/pdf/2409.04218)
+- Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model [[arxiv]](https://arxiv.org/pdf/2409.04356)
 - Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology [[arxiv]](https://arxiv.org/pdf/2408.15032) [[code]](https://github.com/YuqiZhang-Buaa/Mamba2MIL)
 - MSVM-UNet: Multi-Scale Vision Mamba UNet for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2408.13735) [[code]](https://github.com/gndlwch2w/msvm-unet)
 - ShapeMamba-EM: Fine-Tuning Foundation Model with Local Shape Descriptors and Mamba Blocks for 3D EM Image Segmentation [[arxiv]](https://arxiv.org/pdf/2408.14114)
