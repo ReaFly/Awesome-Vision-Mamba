@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling [[arxiv]](https://arxiv.org/pdf/2409.05395)
+- Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations [[arxiv]](https://arxiv.org/pdf/2409.05243) [[code]](https://github.com/Alena-Xinran/MaTAV)
 - Why mamba is effective? Exploit Linear Transformer-Mamba Network for Multi-Modality Image Fusion [[arxiv]](https://arxiv.org/pdf/2409.03223)
 - UV-Mamba: A DCN-Enhanced State Space Model for Urban Village Boundary Identification in High-Resolution Remote Sensing Images [[arxiv]](https://arxiv.org/pdf/2409.03431)
 - Shuffle Mamba: State Space Models with Random Shuffle for Multi-Modal Image Fusion [[arxiv]](https://arxiv.org/pdf/2409.01728)
