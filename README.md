@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models [[arxiv]](https://arxiv.org/pdf/2409.07163) [[code]](https://andycao1125.github.io/mamba_policy/)
 - PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2409.06309)
 - Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling [[arxiv]](https://arxiv.org/pdf/2409.05395)
 - Mamba-Enhanced Text-Audio-Video Alignment Network for Emotion Recognition in Conversations [[arxiv]](https://arxiv.org/pdf/2409.05243) [[code]](https://github.com/Alena-Xinran/MaTAV)
