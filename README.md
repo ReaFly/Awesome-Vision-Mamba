@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- CollaMamba: Efficient Collaborative Perception with Cross-Agent Spatial-Temporal State Space Model [[arxiv]](https://arxiv.org/pdf/2409.07714)
 - Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models [[arxiv]](https://arxiv.org/pdf/2409.07163) [[code]](https://andycao1125.github.io/mamba_policy/)
 - PPMamba: A Pyramid Pooling Local Auxiliary SSM-Based Model for Remote Sensing Image Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2409.06309)
 - Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling [[arxiv]](https://arxiv.org/pdf/2409.05395)
@@ -197,6 +198,8 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation [[arxiv]](https://arxiv.org/pdf/2409.08000) [[code]](https://github.com/zs1314/OCTAMamba)
+- Microscopic-Mamba: Revealing the Secrets of Microscopic Images with Just 4M Parameters [[arxiv]](https://arxiv.org/pdf/2409.07896) [[code]](https://github.com/zs1314/Microscopic-Mamba)
 - MpoxMamba: A Grouped Mamba-based Lightweight Hybrid Network for Mpox Detection [[arxiv]](https://arxiv.org/pdf/2409.04218)
 - Serp-Mamba: Advancing High-Resolution Retinal Vessel Segmentation with Selective State-Space Model [[arxiv]](https://arxiv.org/pdf/2409.04356)
 - Mamba2MIL: State Space Duality Based Multiple Instance Learning for Computational Pathology [[arxiv]](https://arxiv.org/pdf/2408.15032) [[code]](https://github.com/YuqiZhang-Buaa/Mamba2MIL)
