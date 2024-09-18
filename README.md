@@ -9,6 +9,12 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks [[arxiv]](https://arxiv.org/pdf/2409.09649) [[code]](https://github.com/LMMMEng/SparX)
+- Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion [[arxiv]](https://arxiv.org/pdf/2409.09808)
+- Mamba-ST: State Space Model for Efficient Style Transfer [[arxiv]](https://arxiv.org/pdf/2409.10385) [[code]](https://github.com/FilippoBotti/MambaST)
+- SITSMamba for Crop Classification based on Satellite Image Time Series [[arxiv]](https://arxiv.org/pdf/2409.09673) [[code]](https://github.com/XiaoleiQinn/SITSMamba)
+- CoMamba: Real-time Cooperative Perception Unlocked with State Space Models [[arxiv]](https://arxiv.org/pdf/2409.10699)
+- Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation [[arxiv]](https://arxiv.org/pdf/2409.11018)
 - Mamba-YOLO-World: Marrying YOLO-World with Mamba for Open-Vocabulary Detection [[arxiv]](https://arxiv.org/pdf/2409.08513)
 - CollaMamba: Efficient Collaborative Perception with Cross-Agent Spatial-Temporal State Space Model [[arxiv]](https://arxiv.org/pdf/2409.07714)
 - Mamba Policy: Towards Efficient 3D Diffusion Policy with Hybrid Selective State Models [[arxiv]](https://arxiv.org/pdf/2409.07163) [[code]](https://andycao1125.github.io/mamba_policy/)
@@ -199,6 +205,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- SkinMamba: A Precision Skin Lesion Segmentation Architecture with Cross-Scale Global State Modeling and Frequency Boundary Guidance [[arxiv]](https://arxiv.org/pdf/2409.10890) [[code]](https://github.com/zs1314/SkinMamba)
 - MedSegMamba: 3D CNN-Mamba Hybrid Architecture for Brain Segmentation [[arxiv]](https://arxiv.org/pdf/2409.08307)
 - Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images [[arxiv]](https://arxiv.org/pdf/2409.08492) [[code]](https://github.com/xmed-lab/TP-Mamba)
 - OCTAMamba: A State-Space Model Approach for Precision OCTA Vasculature Segmentation [[arxiv]](https://arxiv.org/pdf/2409.08000) [[code]](https://github.com/zs1314/OCTAMamba)
