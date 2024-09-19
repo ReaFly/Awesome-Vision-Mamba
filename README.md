@@ -9,6 +9,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Mamba Fusion: Learning Actions Through Questioning [[arxiv]](https://arxiv.org/pdf/2409.11513) [[code]](https://github.com/Dongzhikang/MambaVL)
+- PhysMamba: Efficient Remote Physiological Measurement with SlowFast Temporal Difference Mamba [[arxiv]](https://arxiv.org/pdf/2409.12031) [[code]](https://github.com/Chaoqi31/PhysMamba)
 - SparX: A Sparse Cross-Layer Connection Mechanism for Hierarchical Vision Mamba and Transformer Networks [[arxiv]](https://arxiv.org/pdf/2409.09649) [[code]](https://github.com/LMMMEng/SparX)
 - Famba-V: Fast Vision Mamba with Cross-Layer Token Fusion [[arxiv]](https://arxiv.org/pdf/2409.09808)
 - Mamba-ST: State Space Model for Efficient Style Transfer [[arxiv]](https://arxiv.org/pdf/2409.10385) [[code]](https://github.com/FilippoBotti/MambaST)
@@ -205,6 +207,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- SPRMamba: Surgical Phase Recognition for Endoscopic Submucosal Dissection with Mamba [[arxiv]](https://arxiv.org/pdf/2409.12108)
 - SkinMamba: A Precision Skin Lesion Segmentation Architecture with Cross-Scale Global State Modeling and Frequency Boundary Guidance [[arxiv]](https://arxiv.org/pdf/2409.10890) [[code]](https://github.com/zs1314/SkinMamba)
 - MedSegMamba: 3D CNN-Mamba Hybrid Architecture for Brain Segmentation [[arxiv]](https://arxiv.org/pdf/2409.08307)
 - Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images [[arxiv]](https://arxiv.org/pdf/2409.08492) [[code]](https://github.com/xmed-lab/TP-Mamba)
