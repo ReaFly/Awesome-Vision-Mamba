@@ -207,6 +207,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- DenoMamba: A fused state-space model for low-dose CT denoising [[arxiv]](https://arxiv.org/pdf/2409.13094) 
 - MambaRecon: MRI Reconstruction with Structured State Space Models [[arxiv]](https://arxiv.org/pdf/2409.12401) [[code]](https://github.com/yilmazkorkmaz1/MambaRecon)
 - MambaClinix: Hierarchical Gated Convolution and Mamba-Based U-Net for Enhanced 3D Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2409.12533) [[code]](https://github.com/CYB08/MambaClinix-PyTorch)
 - SPRMamba: Surgical Phase Recognition for Endoscopic Submucosal Dissection with Mamba [[arxiv]](https://arxiv.org/pdf/2409.12108)
