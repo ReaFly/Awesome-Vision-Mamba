@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection [[arxiv]](https://arxiv.org/pdf/2409.15936) [[code]](https://github.com/Jiaxin-Ye/DepMamba)
 - GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning [[arxiv]](https://arxiv.org/pdf/2409.14403)
 - Mamba Fusion: Learning Actions Through Questioning [[arxiv]](https://arxiv.org/pdf/2409.11513) [[code]](https://github.com/Dongzhikang/MambaVL)
 - PhysMamba: Efficient Remote Physiological Measurement with SlowFast Temporal Difference Mamba [[arxiv]](https://arxiv.org/pdf/2409.12031) [[code]](https://github.com/Chaoqi31/PhysMamba)
