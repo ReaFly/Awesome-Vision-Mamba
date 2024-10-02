@@ -9,6 +9,10 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Exploring Token Pruning in Vision State Space Models [[arxiv]](https://arxiv.org/pdf/2409.18962)
+- Hybrid Mamba for Few-Shot Segmentation [[arxiv]](https://arxiv.org/pdf/2409.19613) [[code]](https://github.com/Sam1224/HMNet)
+- MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation [[arxiv]](https://arxiv.org/pdf/2409.19937)
+- MAP: Unleashing Hybrid Mamba-Transformer Vision Backbone's Potential with Masked Autoregressive Pretraining [[arxiv]](https://arxiv.org/pdf/2410.00871)
 - Path-adaptive Spatio-Temporal State Space Model for Event-based Recognition with Arbitrary Duration [[arxiv]](https://arxiv.org/pdf/2409.16953) [[code]](https://vlislab22.github.io/pastssm/)
 - DepMamba: Progressive Fusion Mamba for Multimodal Depression Detection [[arxiv]](https://arxiv.org/pdf/2409.15936) [[code]](https://github.com/Jiaxin-Ye/DepMamba)
 - GraspMamba: A Mamba-based Language-driven Grasp Detection Framework with Hierarchical Feature Learning [[arxiv]](https://arxiv.org/pdf/2409.14403)
@@ -210,6 +214,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- MambaEviScrib: Mamba and Evidence-Guided Consistency Make CNN Work Robustly for Scribble-Based Weakly Supervised Ultrasound Image Segmentation [[arxiv]](https://arxiv.org/pdf/2409.19370) [[code]](https://github.com/GtLinyer/MambaEviScrib)
 - DenoMamba: A fused state-space model for low-dose CT denoising [[arxiv]](https://arxiv.org/pdf/2409.13094) 
 - MambaRecon: MRI Reconstruction with Structured State Space Models [[arxiv]](https://arxiv.org/pdf/2409.12401) [[code]](https://github.com/yilmazkorkmaz1/MambaRecon)
 - MambaClinix: Hierarchical Gated Convolution and Mamba-Based U-Net for Enhanced 3D Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2409.12533) [[code]](https://github.com/CYB08/MambaClinix-PyTorch)
