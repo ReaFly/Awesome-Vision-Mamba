@@ -9,6 +9,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking [[arxiv]](https://arxiv.org/pdf/2410.01806) [[code]](https://sambamotr.github.io/)
 - Exploring Token Pruning in Vision State Space Models [[arxiv]](https://arxiv.org/pdf/2409.18962)
 - Hybrid Mamba for Few-Shot Segmentation [[arxiv]](https://arxiv.org/pdf/2409.19613) [[code]](https://github.com/Sam1224/HMNet)
 - MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation [[arxiv]](https://arxiv.org/pdf/2409.19937)
