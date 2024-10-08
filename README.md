@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Survey
+- Mamba in Vision: A Comprehensive Survey of Techniques and Applications [[arxiv]](https://arxiv.org/pdf/2410.03105) 
 - Vision Mamba: A Comprehensive Survey and Taxonomy [[arxiv]](https://arxiv.org/pdf/2405.04404)
 - A Survey on Vision Mamba: Models, Applications and Challenges [[arxiv]](https://arxiv.org/pdf/2404.18861)
 - Mamba-360: Survey of State Space Models as Transformer Alternative for Long Sequence Modelling: Methods, Applications, and Challenges [[arxiv]](https://arxiv.org/pdf/2404.16112)
@@ -9,6 +10,9 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- HRVMamba: High-Resolution Visual State Space Model for Dense Prediction [[arxiv]](https://arxiv.org/pdf/2410.03174) [[code]](https://github.com/zhanghao5201/HRVMamba)
+- Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection [[arxiv]](https://arxiv.org/pdf/2410.03987) [[code]](https://github.com/Liangbo-Cheng/mamba_capsule)
+- IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2410.05100)
 - Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking [[arxiv]](https://arxiv.org/pdf/2410.01806) [[code]](https://sambamotr.github.io/)
 - Exploring Token Pruning in Vision State Space Models [[arxiv]](https://arxiv.org/pdf/2409.18962)
 - Hybrid Mamba for Few-Shot Segmentation [[arxiv]](https://arxiv.org/pdf/2409.19613) [[code]](https://github.com/Sam1224/HMNet)
