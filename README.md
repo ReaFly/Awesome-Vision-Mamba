@@ -10,6 +10,10 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- MatMamba: A Matryoshka State Space Model [[arxiv]](https://arxiv.org/pdf/2410.06718) [[code]](https://github.com/ScaledFoundations/MatMamba)
+- EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment [[arxiv]](https://arxiv.org/pdf/2410.05938)
+- Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching [[arxiv]](https://arxiv.org/pdf/2410.06285)
+- QuadMamba: Learning Quadtree-based Selective Scan for Visual State Space Model [[arxiv]](https://arxiv.org/pdf/2410.06806) [[code]](https://github.com/VISIONSJTU/QuadMamba)
 - HRVMamba: High-Resolution Visual State Space Model for Dense Prediction [[arxiv]](https://arxiv.org/pdf/2410.03174) [[code]](https://github.com/zhanghao5201/HRVMamba)
 - Mamba Capsule Routing Towards Part-Whole Relational Camouflaged Object Detection [[arxiv]](https://arxiv.org/pdf/2410.03987) [[code]](https://github.com/Liangbo-Cheng/mamba_capsule)
 - IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2410.05100)
