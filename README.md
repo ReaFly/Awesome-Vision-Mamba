@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- CountMamba: Exploring Multi-directional Selective State-Space Models for Plant Counting [[arxiv]](https://arxiv.org/pdf/2410.07528) 
 - MatMamba: A Matryoshka State Space Model [[arxiv]](https://arxiv.org/pdf/2410.06718) [[code]](https://github.com/ScaledFoundations/MatMamba)
 - EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment [[arxiv]](https://arxiv.org/pdf/2410.05938)
 - Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching [[arxiv]](https://arxiv.org/pdf/2410.06285)
