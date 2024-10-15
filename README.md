@@ -10,6 +10,9 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution [[arxiv]](https://arxiv.org/pdf/2410.10140) 
+- GlobalMamba: Global Image Serialization for Vision Mamba [[arxiv]](https://arxiv.org/pdf/2410.10316) [[code]](https://github.com/wangck20/GlobalMamba)
+- V2M: Visual 2-Dimensional Mamba for Image Representation Learning [[arxiv]](https://arxiv.org/pdf/2410.10382) [[code]](https://github.com/wangck20/V2M)
 - CountMamba: Exploring Multi-directional Selective State-Space Models for Plant Counting [[arxiv]](https://arxiv.org/pdf/2410.07528) 
 - MatMamba: A Matryoshka State Space Model [[arxiv]](https://arxiv.org/pdf/2410.06718) [[code]](https://github.com/ScaledFoundations/MatMamba)
 - EMMA: Empowering Multi-modal Mamba with Structural and Hierarchical Alignment [[arxiv]](https://arxiv.org/pdf/2410.05938)
