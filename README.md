@@ -10,6 +10,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- MambaPainter: Neural Stroke-Based Rendering in a Single Step [[arxiv]](https://arxiv.org/pdf/2410.12524) [[code]](https://github.com/STomoya/MambaPainter)
+- MambaBEV: An efficient 3D detection model with Mamba2 [[arxiv]](https://arxiv.org/pdf/2410.12673)
 - Hi-Mamba: Hierarchical Mamba for Efficient Image Super-Resolution [[arxiv]](https://arxiv.org/pdf/2410.10140) 
 - GlobalMamba: Global Image Serialization for Vision Mamba [[arxiv]](https://arxiv.org/pdf/2410.10316) [[code]](https://github.com/wangck20/GlobalMamba)
 - V2M: Visual 2-Dimensional Mamba for Image Representation Learning [[arxiv]](https://arxiv.org/pdf/2410.10382) [[code]](https://github.com/wangck20/V2M)
