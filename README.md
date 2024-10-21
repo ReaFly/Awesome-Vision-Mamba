@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging [[arxiv]](https://arxiv.org/pdf/2410.14214) [[code]](https://github.com/PAN083/MambaSCI)
 - RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images [[arxiv]](https://arxiv.org/pdf/2410.13532)
 - MambaPainter: Neural Stroke-Based Rendering in a Single Step [[arxiv]](https://arxiv.org/pdf/2410.12524) [[code]](https://github.com/STomoya/MambaPainter)
 - MambaBEV: An efficient 3D detection model with Mamba2 [[arxiv]](https://arxiv.org/pdf/2410.12673)
