@@ -9,7 +9,11 @@
 - A Survey on Visual Mamba [[arxiv]](https://arxiv.org/pdf/2404.15956.pdf)
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
-## Computer Vision 
+## Computer Vision
+- MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection [[arxiv]](https://arxiv.org/pdf/2410.15015) [[code]](https://github.com/YueZhan721/MambaSOD)
+- Spatial-Mamba: Effective Visual State Space Models via Structure-Aware State Fusion [[arxiv]](https://arxiv.org/pdf/2410.15091) [[code]](https://github.com/EdwardChasel/Spatial-Mamba)
+- MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering [[arxiv]](https://arxiv.org/pdf/2410.15941)
+- START: A Generalized State Space Model with Saliency-Driven Token-Aware Transformation [[arxiv]](https://arxiv.org/pdf/2410.16020) [[code]](https://github.com/lingeringlight/START)
 - MambaSCI: Efficient Mamba-UNet for Quad-Bayer Patterned Video Snapshot Compressive Imaging [[arxiv]](https://arxiv.org/pdf/2410.14214) [[code]](https://github.com/PAN083/MambaSCI)
 - RemoteDet-Mamba: A Hybrid Mamba-CNN Network for Multi-modal Object Detection in Remote Sensing Images [[arxiv]](https://arxiv.org/pdf/2410.13532)
 - MambaPainter: Neural Stroke-Based Rendering in a Single Step [[arxiv]](https://arxiv.org/pdf/2410.12524) [[code]](https://github.com/STomoya/MambaPainter)
@@ -231,6 +235,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- Taming Mambas for Voxel Level 3D Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2410.15496) [[code]](https://anonymous.4open.science/r/WACV2025-TamingMamba/README.md)
 - UMambaAdj: Advancing GTV Segmentation for Head and Neck Cancer in MRI-Guided RT with UMamba and nnU-Net ResEnc Planner [[arxiv]](https://arxiv.org/pdf/2410.12940)
 - MambaEviScrib: Mamba and Evidence-Guided Consistency Make CNN Work Robustly for Scribble-Based Weakly Supervised Ultrasound Image Segmentation [[arxiv]](https://arxiv.org/pdf/2409.19370) [[code]](https://github.com/GtLinyer/MambaEviScrib)
 - DenoMamba: A fused state-space model for low-dose CT denoising [[arxiv]](https://arxiv.org/pdf/2409.13094) 
