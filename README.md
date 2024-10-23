@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition [[arxiv]](https://arxiv.org/pdf/2410.16746) [[code]](https://github.com/Typistchen/SpikMamba)
 - MambaSOD: Dual Mamba-Driven Cross-Modal Fusion Network for RGB-D Salient Object Detection [[arxiv]](https://arxiv.org/pdf/2410.15015) [[code]](https://github.com/YueZhan721/MambaSOD)
 - Spatial-Mamba: Effective Visual State Space Models via Structure-Aware State Fusion [[arxiv]](https://arxiv.org/pdf/2410.15091) [[code]](https://github.com/EdwardChasel/Spatial-Mamba)
 - MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering [[arxiv]](https://arxiv.org/pdf/2410.15941)
