@@ -236,6 +236,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[arxiv]](https://arxiv.org/pdf/2410.18135) [[code]](https://github.com/YonghengSun1997/R2Gen-Mamba)
 - Taming Mambas for Voxel Level 3D Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2410.15496) [[code]](https://anonymous.4open.science/r/WACV2025-TamingMamba/README.md)
 - UMambaAdj: Advancing GTV Segmentation for Head and Neck Cancer in MRI-Guided RT with UMamba and nnU-Net ResEnc Planner [[arxiv]](https://arxiv.org/pdf/2410.12940)
 - MambaEviScrib: Mamba and Evidence-Guided Consistency Make CNN Work Robustly for Scribble-Based Weakly Supervised Ultrasound Image Segmentation [[arxiv]](https://arxiv.org/pdf/2409.19370) [[code]](https://github.com/GtLinyer/MambaEviScrib)
