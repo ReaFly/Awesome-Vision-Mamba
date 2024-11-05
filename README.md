@@ -238,6 +238,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation [[arxiv]](https://arxiv.org/pdf/2411.01647) [[code]](https://wongzbb.github.io/MedSora/)
 - MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2410.23738) [[code]](https://github.com/csyfjiang/MLLA-UNet)
 - R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[arxiv]](https://arxiv.org/pdf/2410.18135) [[code]](https://github.com/YonghengSun1997/R2Gen-Mamba)
 - Taming Mambas for Voxel Level 3D Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2410.15496) [[code]](https://anonymous.4open.science/r/WACV2025-TamingMamba/README.md)
