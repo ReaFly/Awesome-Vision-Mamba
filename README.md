@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal [[arxiv]](https://arxiv.org/pdf/2411.03260)
 - Adaptive Multi Scale Document Binarisation Using Vision Mamba [[arxiv]](https://arxiv.org/pdf/2410.22811) 
 - ECMamba: Consolidating Selective State Space Model with Retinex Guidance for Efficient Multiple Exposure Correction [[arxiv]](https://arxiv.org/pdf/2410.21535) [[code]](https://github.com/LowlevelAI/ECMamba)
 - SpikMamba: When SNN meets Mamba in Event-based Human Action Recognition [[arxiv]](https://arxiv.org/pdf/2410.16746) [[code]](https://github.com/Typistchen/SpikMamba)
