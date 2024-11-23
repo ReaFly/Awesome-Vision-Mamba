@@ -10,6 +10,10 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection [[arxiv]](https://arxiv.org/pdf/2411.13628)
+- M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction [[arxiv]](https://arxiv.org/pdf/2411.12635) [[code]](https://github.com/AnnnnnieZhang/M3D)
+- S3Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model [[arxiv]](https://arxiv.org/pdf/2411.11906) [[code]](https://github.com/xiapeizhe12138/S3Mamba-ArbSR)
+- RAWMamba: Unified sRGB-to-RAW De-rendering With State Space Model [[arxiv]](https://arxiv.org/pdf/2411.11717)
 - MambaPEFT: Exploring Parameter-Efficient Fine-Tuning for Mamba [[arxiv]](https://arxiv.org/pdf/2411.03855)
 - ShadowMamba: State-Space Model with Boundary-Region Selective Scan for Shadow Removal [[arxiv]](https://arxiv.org/pdf/2411.03260)
 - Adaptive Multi Scale Document Binarisation Using Vision Mamba [[arxiv]](https://arxiv.org/pdf/2410.22811) 
@@ -240,6 +244,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling [[arxiv]](https://arxiv.org/pdf/2411.11926)
 - Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation [[arxiv]](https://arxiv.org/pdf/2411.01647) [[code]](https://wongzbb.github.io/MedSora/)
 - MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2410.23738) [[code]](https://github.com/csyfjiang/MLLA-UNet)
 - R2Gen-Mamba: A Selective State Space Model for Radiology Report Generation [[arxiv]](https://arxiv.org/pdf/2410.18135) [[code]](https://github.com/YonghengSun1997/R2Gen-Mamba)
