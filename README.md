@@ -10,6 +10,18 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- BadScan: An Architectural Backdoor Attack on Visual State Space Models [[arxiv]](https://arxiv.org/pdf/2411.17283)
+- FTMoMamba: Motion Generation with Frequency and Text State Space Models [[arxiv]](https://arxiv.org/pdf/2411.17532)
+- TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba [[arxiv]](https://arxiv.org/pdf/2411.17473) [[code]](https://github.com/xwmaxwma/TinyViM)
+- Deformable Mamba for Wide Field of View Segmentation [[arxiv]](https://arxiv.org/pdf/2411.16481) [[code]](https://github.com/JieHu1996/DeformableMamba)
+- MobileMamba: Lightweight Multi-Receptive Visual Mamba Network [[arxiv]](https://arxiv.org/pdf/2411.15941) [[code]](https://github.com/lewandofskee/MobileMamba)
+- MambaTrack: Exploiting Dual-Enhancement for Night UAV Tracking [[arxiv]](https://arxiv.org/pdf/2411.15761)
+- Mamba-CL: Optimizing Selective State Space Model in Null Space for Continual Learning [[arxiv]](https://arxiv.org/pdf/2411.15469)
+- MambaVLT: Time-Evolving Multimodal State Space Model for Vision-Language Tracking [[arxiv]](https://arxiv.org/pdf/2411.15459)
+- Event USKT : U-State Space Model in Knowledge Transfer for Event Cameras [[arxiv]](https://arxiv.org/pdf/2411.15276)
+- EfficientViM: Efficient Vision Mamba with Hidden State Mixer based State Space Duality [[arxiv]](https://arxiv.org/pdf/2411.15241) [[code]](https://github.com/mlvlab/EfficientViM)
+- OSMamba: Omnidirectional Spectral Mamba with Dual-Domain Prior Generator for Exposure Correction [[arxiv]](https://arxiv.org/pdf/2411.15255)
+- MambaIRv2: Attentive State Space Restoration [[arxiv]](https://arxiv.org/pdf/2411.15269) [[code]](https://github.com/csguoh/MambaIR)
 - MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection [[arxiv]](https://arxiv.org/pdf/2411.13628)
 - M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction [[arxiv]](https://arxiv.org/pdf/2411.12635) [[code]](https://github.com/AnnnnnieZhang/M3D)
 - S3Mamba: Arbitrary-Scale Super-Resolution via Scaleable State Space Model [[arxiv]](https://arxiv.org/pdf/2411.11906) [[code]](https://github.com/xiapeizhe12138/S3Mamba-ArbSR)
