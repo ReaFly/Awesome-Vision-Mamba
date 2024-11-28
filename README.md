@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Vision Mamba Distillation for Low-resolution Fine-grained Image Classification [[arxiv]](https://arxiv.org/pdf/2411.17980) [[code]](https://github.com/boa2004plaust/ViMD)
 - BadScan: An Architectural Backdoor Attack on Visual State Space Models [[arxiv]](https://arxiv.org/pdf/2411.17283)
 - FTMoMamba: Motion Generation with Frequency and Text State Space Models [[arxiv]](https://arxiv.org/pdf/2411.17532)
 - TinyViM: Frequency Decoupling for Tiny Hybrid Vision Mamba [[arxiv]](https://arxiv.org/pdf/2411.17473) [[code]](https://github.com/xwmaxwma/TinyViM)
