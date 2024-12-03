@@ -10,6 +10,9 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning [[arxiv]](https://arxiv.org/pdf/2412.00626)
+- AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment [[arxiv]](https://arxiv.org/pdf/2412.00833)
+- MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection [[arxiv]](https://arxiv.org/pdf/2412.01422)
 - Vision Mamba Distillation for Low-resolution Fine-grained Image Classification [[arxiv]](https://arxiv.org/pdf/2411.17980) [[code]](https://github.com/boa2004plaust/ViMD)
 - BadScan: An Architectural Backdoor Attack on Visual State Space Models [[arxiv]](https://arxiv.org/pdf/2411.17283)
 - FTMoMamba: Motion Generation with Frequency and Text State Space Models [[arxiv]](https://arxiv.org/pdf/2411.17532)
@@ -257,6 +260,8 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- 2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification [[arxiv]](https://arxiv.org/pdf/2412.00678) [[code]](https://github.com/AtlasAnalyticsLab/2DMamba)
+- MambaU-Lite: A Lightweight Model based on Mamba and Integrated Channel-Spatial Attention for Skin Lesion Segmentation [[arxiv]](https://arxiv.org/pdf/2412.01405)
 - KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling [[arxiv]](https://arxiv.org/pdf/2411.11926)
 - Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation [[arxiv]](https://arxiv.org/pdf/2411.01647) [[code]](https://wongzbb.github.io/MedSora/)
 - MLLA-UNet: Mamba-like Linear Attention in an Efficient U-Shape Model for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2410.23738) [[code]](https://github.com/csyfjiang/MLLA-UNet)
