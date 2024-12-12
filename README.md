@@ -10,6 +10,10 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution [[arxiv]](https://arxiv.org/pdf/2412.07222)
+- LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba [[arxiv]](https://arxiv.org/pdf/2412.08388)
+- Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence [[arxiv]](https://arxiv.org/pdf/2412.07481) [[code]](https://github.com/wenbohuang1002/Manta)
+- MSCrackMamba: Leveraging Vision Mamba for Crack Detection in Fused Multispectral Imagery [[arxiv]]()
 - MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning [[arxiv]](https://arxiv.org/pdf/2412.00626)
 - AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment [[arxiv]](https://arxiv.org/pdf/2412.00833)
 - MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection [[arxiv]](https://arxiv.org/pdf/2412.01422)
@@ -260,6 +264,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation [[arxiv]](https://arxiv.org/pdf/2412.08482) [[code]](https://github.com/TapasKumarDutta1/SAM_Mamba_2025)
 - 2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification [[arxiv]](https://arxiv.org/pdf/2412.00678) [[code]](https://github.com/AtlasAnalyticsLab/2DMamba)
 - MambaU-Lite: A Lightweight Model based on Mamba and Integrated Channel-Spatial Attention for Skin Lesion Segmentation [[arxiv]](https://arxiv.org/pdf/2412.01405)
 - KAN-Mamba FusionNet: Redefining Medical Image Segmentation with Non-Linear Modeling [[arxiv]](https://arxiv.org/pdf/2411.11926)
