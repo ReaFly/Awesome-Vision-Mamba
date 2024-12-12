@@ -13,7 +13,7 @@
 - MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution [[arxiv]](https://arxiv.org/pdf/2412.07222)
 - LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba [[arxiv]](https://arxiv.org/pdf/2412.08388)
 - Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence [[arxiv]](https://arxiv.org/pdf/2412.07481) [[code]](https://github.com/wenbohuang1002/Manta)
-- MSCrackMamba: Leveraging Vision Mamba for Crack Detection in Fused Multispectral Imagery [[arxiv]]()
+- MSCrackMamba: Leveraging Vision Mamba for Crack Detection in Fused Multispectral Imagery [[arxiv]](https://arxiv.org/pdf/2412.06211)
 - MambaNUT: Nighttime UAV Tracking via Mamba and Adaptive Curriculum Learning [[arxiv]](https://arxiv.org/pdf/2412.00626)
 - AlignMamba: Enhancing Multimodal Mamba with Local and Global Cross-modal Alignment [[arxiv]](https://arxiv.org/pdf/2412.00833)
 - MamKPD: A Simple Mamba Baseline for Real-Time 2D Keypoint Detection [[arxiv]](https://arxiv.org/pdf/2412.01422)
