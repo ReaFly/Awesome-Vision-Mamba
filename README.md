@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Selective Visual Prompting in Vision Mamba [[arxiv]](https://arxiv.org/pdf/2412.08947) [[code]](https://github.com/zhoujiahuan1991/AAAI2025-SVP)
 - MPSI: Mamba enhancement model for pixel-wise sequential interaction Image Super-Resolution [[arxiv]](https://arxiv.org/pdf/2412.07222)
 - LOMA: Language-assisted Semantic Occupancy Network via Triplane Mamba [[arxiv]](https://arxiv.org/pdf/2412.08388)
 - Manta: Enhancing Mamba for Few-Shot Action Recognition of Long Sub-Sequence [[arxiv]](https://arxiv.org/pdf/2412.07481) [[code]](https://github.com/wenbohuang1002/Manta)
