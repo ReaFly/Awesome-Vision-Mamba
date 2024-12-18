@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training [[arxiv]](https://arxiv.org/pdf/2412.12496)
 - MambaPro: Multi-Modal Object Re-Identification with Mamba Aggregation and Synergistic Prompt [[arxiv]](https://arxiv.org/pdf/2412.10707) [[code]](https://github.com/924973292/MambaPro)
 - SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2412.11890) [[code]](https://github.com/yunxiangfu2001/SegMAN)
 - Image Forgery Localization with State Space Models [[arxiv]](https://arxiv.org/pdf/2412.11214) 
