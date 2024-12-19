@@ -10,6 +10,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Robust Tracking via Mamba-based Context-aware Token Learning [[arxiv]](https://arxiv.org/pdf/2412.13611) [[code]](https://github.com/GXNU-ZhongLab/TemTrack)
+- MambaLCT: Boosting Tracking via Long-term Context State Space Model [[arxiv]](https://arxiv.org/pdf/2412.13615) [[code]](https://github.com/GXNU-ZhongLab/MambaLCT)
 - Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training [[arxiv]](https://arxiv.org/pdf/2412.12496)
 - MambaPro: Multi-Modal Object Re-Identification with Mamba Aggregation and Synergistic Prompt [[arxiv]](https://arxiv.org/pdf/2412.10707) [[code]](https://github.com/924973292/MambaPro)
 - SegMAN: Omni-scale Context Modeling with State Space Models and Local Attention for Semantic Segmentation [[arxiv]](https://arxiv.org/pdf/2412.11890) [[code]](https://github.com/yunxiangfu2001/SegMAN)
