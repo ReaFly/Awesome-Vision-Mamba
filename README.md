@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Efficient Self-Supervised Video Hashing with Selective State Spaces [[arxiv]](https://arxiv.org/pdf/2412.14518) [[code]](https://github.com/gimpong/AAAI25-S5VH)
 - Robust Tracking via Mamba-based Context-aware Token Learning [[arxiv]](https://arxiv.org/pdf/2412.13611) [[code]](https://github.com/GXNU-ZhongLab/TemTrack)
 - MambaLCT: Boosting Tracking via Long-term Context State Space Model [[arxiv]](https://arxiv.org/pdf/2412.13615) [[code]](https://github.com/GXNU-ZhongLab/MambaLCT)
 - Faster Vision Mamba is Rebuilt in Minutes via Merged Token Re-training [[arxiv]](https://arxiv.org/pdf/2412.12496)
@@ -272,6 +273,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- S3-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation [[arxiv]](https://arxiv.org/pdf/2412.14546) [[code]](https://github.com/ErinWang2023/S3-Mamba)
 - SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation [[arxiv]](https://arxiv.org/pdf/2412.08482) [[code]](https://github.com/TapasKumarDutta1/SAM_Mamba_2025)
 - 2DMamba: Efficient State Space Model for Image Representation with Applications on Giga-Pixel Whole Slide Image Classification [[arxiv]](https://arxiv.org/pdf/2412.00678) [[code]](https://github.com/AtlasAnalyticsLab/2DMamba)
 - MambaU-Lite: A Lightweight Model based on Mamba and Integrated Channel-Spatial Attention for Skin Lesion Segmentation [[arxiv]](https://arxiv.org/pdf/2412.01405)
