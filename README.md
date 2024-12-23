@@ -10,6 +10,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation [[arxiv]](https://arxiv.org/pdf/2412.15845) [[code]](https://github.com/12138-chr/MTAIR)
+- Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks [[arxiv]](https://arxiv.org/pdf/2412.16146)
 - Efficient Self-Supervised Video Hashing with Selective State Spaces [[arxiv]](https://arxiv.org/pdf/2412.14518) [[code]](https://github.com/gimpong/AAAI25-S5VH)
 - Robust Tracking via Mamba-based Context-aware Token Learning [[arxiv]](https://arxiv.org/pdf/2412.13611) [[code]](https://github.com/GXNU-ZhongLab/TemTrack)
 - MambaLCT: Boosting Tracking via Long-term Context State Space Model [[arxiv]](https://arxiv.org/pdf/2412.13615) [[code]](https://github.com/GXNU-ZhongLab/MambaLCT)
