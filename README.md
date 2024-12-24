@@ -10,6 +10,10 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- V“Mean”ba: Visual State Space Models only need 1 hidden dimension [[arxiv]](https://arxiv.org/pdf/2412.16602) 
+- FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation [[arxiv]](https://arxiv.org/pdf/2412.17366) 
+- Empathetic Response in Audio-Visual Conversations Using Emotion Preference Optimization and MambaCompressor [[arxiv]](https://arxiv.org/pdf/2412.17572)
+- Trusted Mamba Contrastive Network for Multi-View Clustering [[arxiv]](https://arxiv.org/pdf/2412.16487)
 - Multi-dimensional Visual Prompt Enhanced Image Restoration via Mamba-Transformer Aggregation [[arxiv]](https://arxiv.org/pdf/2412.15845) [[code]](https://github.com/12138-chr/MTAIR)
 - Mamba2D: A Natively Multi-Dimensional State-Space Model for Vision Tasks [[arxiv]](https://arxiv.org/pdf/2412.16146)
 - Efficient Self-Supervised Video Hashing with Selective State Spaces [[arxiv]](https://arxiv.org/pdf/2412.14518) [[code]](https://github.com/gimpong/AAAI25-S5VH)
