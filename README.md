@@ -10,6 +10,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization [[arxiv]](https://arxiv.org/pdf/2412.18177)
+- COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection [[arxiv]](https://arxiv.org/pdf/2412.18076) [[code]](https://github.com/luluyuu/COMO)
 - V“Mean”ba: Visual State Space Models only need 1 hidden dimension [[arxiv]](https://arxiv.org/pdf/2412.16602) 
 - FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation [[arxiv]](https://arxiv.org/pdf/2412.17366) 
 - Empathetic Response in Audio-Visual Conversations Using Emotion Preference Optimization and MambaCompressor [[arxiv]](https://arxiv.org/pdf/2412.17572)
