@@ -10,6 +10,11 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- DepthMamba with Adaptive Fusion [[arxiv]](https://arxiv.org/pdf/2412.19964)
+- MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration [[arxiv]](https://arxiv.org/pdf/2412.20066)
+- MambaVO: Deep Visual Odometry Based on Sequential Matching Refinement and Training Smoothing [[arxiv]](https://arxiv.org/pdf/2412.20082)
+- STNMamba: Mamba-based Spatial-Temporal Normality Learning for Video Anomaly Detection [[arxiv]](https://arxiv.org/pdf/2412.20084)
+- PTQ4VM: Post-Training Quantization for Visual Mamba [[arxiv]](https://arxiv.org/pdf/2412.20386) [[code]](https://github.com/YoungHyun197/ptq4vm)
 - Enhancing Online Continual Learning with Plug-and-Play State Space Model and Class-Conditional Mixture of Discretization [[arxiv]](https://arxiv.org/pdf/2412.18177)
 - COMO: Cross-Mamba Interaction and Offset-Guided Fusion for Multimodal Object Detection [[arxiv]](https://arxiv.org/pdf/2412.18076) [[code]](https://github.com/luluyuu/COMO)
 - V“Mean”ba: Visual State Space Models only need 1 hidden dimension [[arxiv]](https://arxiv.org/pdf/2412.16602) 
