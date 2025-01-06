@@ -287,6 +287,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- Merging Context Clustering with Visual State Space Models for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2501.01618) [[code]](https://github.com/zymissy/CCViM)
 - HCMA-UNet: A Hybrid CNN-Mamba UNet with Inter-Slice Self-Attention for Efficient Breast Cancer Segmentation [[arxiv]](https://arxiv.org/pdf/2501.00751) [[code]](https://anonymous.4open.science/r/ICME2025_HCMA-UNet/README.md)
 - S3-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation [[arxiv]](https://arxiv.org/pdf/2412.14546) [[code]](https://github.com/ErinWang2023/S3-Mamba)
 - SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation [[arxiv]](https://arxiv.org/pdf/2412.08482) [[code]](https://github.com/TapasKumarDutta1/SAM_Mamba_2025)
