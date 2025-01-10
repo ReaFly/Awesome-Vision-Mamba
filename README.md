@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision
+- MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2501.04944) [[code]](https://github.com/li-yapeng/MambaHSI)
 - Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging [[arxiv]](https://arxiv.org/pdf/2501.01262) [[codee]](https://github.com/Mengjie-s/MiJUN)
 - DepthMamba with Adaptive Fusion [[arxiv]](https://arxiv.org/pdf/2412.19964)
 - MaIR: A Locality- and Continuity-Preserving Mamba for Image Restoration [[arxiv]](https://arxiv.org/pdf/2412.20066)
