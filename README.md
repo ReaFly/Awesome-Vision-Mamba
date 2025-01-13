@@ -9,7 +9,8 @@
 - A Survey on Visual Mamba [[arxiv]](https://arxiv.org/pdf/2404.15956.pdf)
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
-## Computer Vision
+## Computer Vision 
+- MS-Temba: Multi-Scale Temporal Mamba for Efficient Temporal Action Detection [[arxiv]](https://arxiv.org/pdf/2501.06138) [[code]](https://github.com/thearkaprava/MS-Temba)
 - MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2501.04944) [[code]](https://github.com/li-yapeng/MambaHSI)
 - Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging [[arxiv]](https://arxiv.org/pdf/2501.01262) [[codee]](https://github.com/Mengjie-s/MiJUN)
 - DepthMamba with Adaptive Fusion [[arxiv]](https://arxiv.org/pdf/2412.19964)
