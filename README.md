@@ -10,6 +10,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion [[arxiv]](https://arxiv.org/pdf/2501.07260) [[code]](https://github.com/xrkong/skimba)
+- Mamba-MOC: A Multicategory Remote Object Counting via State Space Model [[arxiv]](https://arxiv.org/pdf/2501.06697) [[code]](https://github.com/lp-094/Mamba-MOC)
 - MS-Temba: Multi-Scale Temporal Mamba for Efficient Temporal Action Detection [[arxiv]](https://arxiv.org/pdf/2501.06138) [[code]](https://github.com/thearkaprava/MS-Temba)
 - MambaHSI: Spatial-Spectral Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2501.04944) [[code]](https://github.com/li-yapeng/MambaHSI)
 - Detail Matters: Mamba-Inspired Joint Unfolding Network for Snapshot Spectral Compressive Imaging [[arxiv]](https://arxiv.org/pdf/2501.01262) [[codee]](https://github.com/Mengjie-s/MiJUN)
@@ -289,6 +291,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation [[arxiv]](https://arxiv.org/pdf/2501.07120) 
 - Merging Context Clustering with Visual State Space Models for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2501.01618) [[code]](https://github.com/zymissy/CCViM)
 - HCMA-UNet: A Hybrid CNN-Mamba UNet with Inter-Slice Self-Attention for Efficient Breast Cancer Segmentation [[arxiv]](https://arxiv.org/pdf/2501.00751) [[code]](https://anonymous.4open.science/r/ICME2025_HCMA-UNet/README.md)
 - S3-Mamba: Small-Size-Sensitive Mamba for Lesion Segmentation [[arxiv]](https://arxiv.org/pdf/2412.14546) [[code]](https://github.com/ErinWang2023/S3-Mamba)
