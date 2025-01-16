@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation [[arxiv]](https://arxiv.org/pdf/2501.08837)
 - AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation [[arxiv]](https://arxiv.org/pdf/2501.07810) [[code]](https://github.com/SitongGong/AVS-Mamba)
 - Skip Mamba Diffusion for Monocular 3D Semantic Scene Completion [[arxiv]](https://arxiv.org/pdf/2501.07260) [[code]](https://github.com/xrkong/skimba)
 - Mamba-MOC: A Multicategory Remote Object Counting via State Space Model [[arxiv]](https://arxiv.org/pdf/2501.06697) [[code]](https://github.com/lp-094/Mamba-MOC)
