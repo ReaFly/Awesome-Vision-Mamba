@@ -10,7 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
-- SMamba: Sparse Mamba for Event-based Object Detection [[arxiv]](https://arxiv.org/pdf/2501.11971)
+- SMamba: Sparse Mamba for Event-based Object Detection [[arxiv]](https://arxiv.org/pdf/2501.11971) [[code]](https://github.com/Zizzzzzzz/SMamba)
 - WMamba: Wavelet-based Mamba for Face Forgery Detection [[arxiv]](https://arxiv.org/pdf/2501.09617)
 - MANTA: Diffusion Mamba for Efficient and Effective Stochastic Long-Term Dense Anticipation [[arxiv]](https://arxiv.org/pdf/2501.08837)
 - AVS-Mamba: Exploring Temporal and Multi-modal Mamba for Audio-Visual Segmentation [[arxiv]](https://arxiv.org/pdf/2501.07810) [[code]](https://github.com/SitongGong/AVS-Mamba)
