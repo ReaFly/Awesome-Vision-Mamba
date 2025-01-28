@@ -10,6 +10,9 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation [[arxiv]](https://arxiv.org/pdf/2501.14679) 
+- Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity [[arxiv]](https://arxiv.org/pdf/2501.16295) [[code]](https://github.com/Weixin-Liang/Mixture-of-Mamba)
+- CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model [[arxiv]](https://arxiv.org/pdf/2501.15455) [[code]](https://github.com/xwmaxwma/rschange)
 - QMamba: Post-Training Quantization for Vision State Space Models [[arxiv]](https://arxiv.org/pdf/2501.13624)
 - SMamba: Sparse Mamba for Event-based Object Detection [[arxiv]](https://arxiv.org/pdf/2501.11971) [[code]](https://github.com/Zizzzzzzz/SMamba)
 - WMamba: Wavelet-based Mamba for Face Forgery Detection [[arxiv]](https://arxiv.org/pdf/2501.09617)
