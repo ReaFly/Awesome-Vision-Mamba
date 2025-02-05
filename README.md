@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- DCT-Mamba3D: Spectral Decorrelation and Spatial-Spectral Feature Extraction for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2502.01986)
 - Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation [[arxiv]](https://arxiv.org/pdf/2501.14679) 
 - Mixture-of-Mamba: Enhancing Multi-Modal State-Space Models with Modality-Aware Sparsity [[arxiv]](https://arxiv.org/pdf/2501.16295) [[code]](https://github.com/Weixin-Liang/Mixture-of-Mamba)
 - CD-Lamba: Boosting Remote Sensing Change Detection via a Cross-Temporal Locally Adaptive State Space Model [[arxiv]](https://arxiv.org/pdf/2501.15455) [[code]](https://github.com/xwmaxwma/rschange)
@@ -299,6 +300,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- UD-Mamba: A pixel-level uncertainty-driven Mamba model for medical image segmentation [[arxiv]](https://arxiv.org/pdf/2502.02024) [[code]](https://github.com/piooip/UD-Mamba)
 - DM-Mamba: Dual-domain Multi-scale Mamba for MRI reconstruction [[arxiv]](https://arxiv.org/pdf/2501.08163) [[code]](https://github.com/XiaoMengLiLiLi/DM-Mamba)
 - MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation [[arxiv]](https://arxiv.org/pdf/2501.07120) 
 - Merging Context Clustering with Visual State Space Models for Medical Image Segmentation [[arxiv]](https://arxiv.org/pdf/2501.01618) [[code]](https://github.com/zymissy/CCViM)
