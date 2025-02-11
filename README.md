@@ -10,6 +10,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2502.06427)
 - CMamba: Learned Image Compression with State Space Models [[arxiv]](https://arxiv.org/pdf/2502.04988) 
 - DCT-Mamba3D: Spectral Decorrelation and Spatial-Spectral Feature Extraction for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2502.01986)
 - Surface Vision Mamba: Leveraging Bidirectional State Space Model for Efficient Spherical Manifold Representation [[arxiv]](https://arxiv.org/pdf/2501.14679) 
