@@ -2,6 +2,7 @@
 ✨✨Latest Papers on Vision Mamba and Related Areas
 
 ## Survey
+- A Survey on Mamba Architecture for Vision Applications [[arxiv]](https://arxiv.org/pdf/2502.07161)
 - Mamba in Vision: A Comprehensive Survey of Techniques and Applications [[arxiv]](https://arxiv.org/pdf/2410.03105) 
 - Vision Mamba: A Comprehensive Survey and Taxonomy [[arxiv]](https://arxiv.org/pdf/2405.04404)
 - A Survey on Vision Mamba: Models, Applications and Challenges [[arxiv]](https://arxiv.org/pdf/2404.18861)
