@@ -11,6 +11,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- TransMamba: Fast Universal Architecture Adaption from Transformers to Mamba [[arxiv]](https://arxiv.org/pdf/2502.15130)
 - DAMamba: Vision State Space Model with Dynamic Adaptive Scan [[arxiv]](https://arxiv.org/pdf/2502.12627) [[code]](https://github.com/ltzovo/DAMamba)
 - Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation [[arxiv]](https://arxiv.org/pdf/2502.13145) [[https://github.com/hustvl/mmMambacode]]()
 - Hybrid State-Space and GRU-based Graph Tokenization Mamba for Hyperspectral Image Classification [[arxiv]](https://arxiv.org/pdf/2502.06427)
