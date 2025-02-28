@@ -307,6 +307,7 @@
 - VMamba: Visual State Space Model [[arxiv]](https://arxiv.org/abs/2401.10166) [[code]](https://github.com/MzeroMiko/VMamba)
 - U-shaped Vision Mamba for Single Image Dehazing [[arxiv]](https://arxiv.org/pdf/2402.04139.pdf) [[code]](https://github.com/zzr-idam/UVM-Net)
 ## Medical Imaging
+- EndoMamba: An Efficient Foundation Model for Endoscopic Videos via Hierarchical Pre-training [[arxiv]](https://arxiv.org/pdf/2502.19090)
 - UD-Mamba: A pixel-level uncertainty-driven Mamba model for medical image segmentation [[arxiv]](https://arxiv.org/pdf/2502.02024) [[code]](https://github.com/piooip/UD-Mamba)
 - DM-Mamba: Dual-domain Multi-scale Mamba for MRI reconstruction [[arxiv]](https://arxiv.org/pdf/2501.08163) [[code]](https://github.com/XiaoMengLiLiLi/DM-Mamba)
 - MSV-Mamba: A Multiscale Vision Mamba Network for Echocardiography Segmentation [[arxiv]](https://arxiv.org/pdf/2501.07120) 
