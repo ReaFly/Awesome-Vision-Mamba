@@ -11,6 +11,7 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- VAMBA: Understanding Hour-Long Videos with Hybrid Mamba-Transformers [[arxiv]](https://arxiv.org/pdf/2503.11579) [[code]](https://tiger-ai-lab.github.io/Vamba/)
 - OmniMamba: Efficient and Unified Multimodal Understanding and Generation via State Space Models [[arxiv]](https://arxiv.org/pdf/2503.08686) [[code]](https://github.com/hustvl/OmniMamba)
 - ViM-VQ: Efficient Post-Training Vector Quantization for Visual Mamba [[arxiv]](https://arxiv.org/pdf/2503.09509)
 - MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation [[arxiv]](https://arxiv.org/pdf/2502.16907) [[code]](https://github.com/SCNU-RISLAB/MambaFlow)
