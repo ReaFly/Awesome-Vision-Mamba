@@ -11,6 +11,8 @@
 - State Space Model for New-Generation Network Alternative to Transformers: A Survey [[arxiv]](https://arxiv.org/pdf/2404.09516.pdf) 
 
 ## Computer Vision 
+- DynamicVis: An Efficient and General Visual Foundation Model for Remote Sensing Image Understanding [[arxiv]](https://arxiv.org/pdf/2503.16426) [[code]](https://github.com/KyanChen/DynamicVis)
+- ACMamba: Fast Unsupervised Anomaly Detection via An Asymmetrical Consensus State Space Model [[arxiv]](https://arxiv.org/pdf/2504.11781)
 - VideoMAP: Toward Scalable Mamba-based Video Autoregressive Pretraining [[arxiv]](https://arxiv.org/pdf/2503.12332) [[code]](https://github.com/yunzeliu/MAP)
 - MaTVLM: Hybrid Mamba-Transformer for Efficient Vision-Language Modeling [[arxiv]](https://arxiv.org/pdf/2503.13440) [[code]](https://github.com/hustvl/MaTVLM)
 - VAMBA: Understanding Hour-Long Videos with Hybrid Mamba-Transformers [[arxiv]](https://arxiv.org/pdf/2503.11579) [[code]](https://tiger-ai-lab.github.io/Vamba/)
